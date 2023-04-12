@@ -1,0 +1,497 @@
+,STNAME,Coc,CTYNAME,Year,Population
+0,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2007,3872962
+1,California,Los Angeles City & County,Los Angeles County,2007,9734701
+2,California,San Diego City and County,San Diego County,2007,2975656
+3,California,San Jose/Santa Clara City & County,Santa Clara County,2007,1723927
+4,California,San Bernardino City & County,San Bernardino County,2007,1992989
+5,California,San Francisco,San Francisco County,2007,799185
+6,Colorado,Metropolitan Denver,Adams County,2007,419607
+7,Colorado,Metropolitan Denver,Arapahoe County,2007,543414
+8,Colorado,Metropolitan Denver,Boulder County,2007,295691
+9,Colorado,Metropolitan Denver,Broomfield County,2007,53664
+10,Colorado,Metropolitan Denver,Denver County,2007,578789
+11,Colorado,Metropolitan Denver,Douglas County,2007,271955
+12,Colorado,Metropolitan Denver,Jefferson County,2007,528396
+13,District of Columbia,District of Columbia,District of Columbia,2007,586409
+14,Florida,Tampa/Hillsborough County,Hillsborough County,2007,1169910
+15,Georgia,Atlanta,Fulton County,2007,990790
+16,Illinois,Chicago,Cook County,2007,5235762
+17,Massachusetts,Boston,Suffolk County,2007,728819
+18,Michigan,Detroit,Wayne County,2007,1981238
+19,Nevada,Las Vegas/Clark County,Clark County,2007,1838635
+20,New York,New York City,Bronx County,2007,1385122
+21,New York,New York City,Kings County,2007,2539206
+22,New York,New York City,New York County,2007,1625251
+23,New York,New York City,Queens County,2007,2277779
+24,New York,New York City,Richmond County,2007,482854
+25,Pennsylvania,Philadelphia,Philadelphia County,2007,1530031
+26,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2007,3909239
+27,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2007,412630
+28,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2007,508260
+29,Texas,Austin/Travis County,Travis County,2007,970477
+30,Washington,Seattle/King,King County,2007,1857506
+31,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2008,3958263
+32,California,Los Angeles City & County,Los Angeles County,2008,9779254
+33,California,San Diego City and County,San Diego County,2008,3019274
+34,California,San Jose/Santa Clara City & County,Santa Clara County,2008,1755849
+35,California,San Bernardino City & County,San Bernardino County,2008,2004914
+36,California,San Francisco,San Francisco County,2008,808001
+37,Colorado,Metropolitan Denver,Adams County,2008,429597
+38,Colorado,Metropolitan Denver,Arapahoe County,2008,554372
+39,Colorado,Metropolitan Denver,Boulder County,2008,300452
+40,Colorado,Metropolitan Denver,Broomfield County,2008,54813
+41,Colorado,Metropolitan Denver,Denver County,2008,593086
+42,Colorado,Metropolitan Denver,Douglas County,2008,281138
+43,Colorado,Metropolitan Denver,Jefferson County,2008,533295
+44,District of Columbia,District of Columbia,District of Columbia,2008,590074
+45,Florida,Tampa/Hillsborough County,Hillsborough County,2008,1180118
+46,Georgia,Atlanta,Fulton County,2008,1013356
+47,Illinois,Chicago,Cook County,2008,5256705
+48,Massachusetts,Boston,Suffolk County,2008,742724
+49,Michigan,Detroit,Wayne County,2008,1949024
+50,Nevada,Las Vegas/Clark County,Clark County,2008,1879093
+51,New York,New York City,Bronx County,2008,1389315
+52,New York,New York City,Kings County,2008,2549941
+53,New York,New York City,New York County,2008,1631599
+54,New York,New York City,Queens County,2008,2288574
+55,New York,New York City,Richmond County,2008,487365
+56,Pennsylvania,Philadelphia,Philadelphia County,2008,1540351
+57,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2008,3980602
+58,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2008,431238
+59,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2008,532609
+60,Texas,Austin/Travis County,Travis County,2008,998561
+61,Washington,Seattle/King,King County,2008,1884242
+62,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2009,4023132
+63,California,Los Angeles City & County,Los Angeles County,2009,9848011
+64,California,San Diego City and County,San Diego County,2009,3053793
+65,California,San Jose/Santa Clara City & County,Santa Clara County,2009,1784642
+66,California,San Bernardino City & County,San Bernardino County,2009,2017673
+67,California,San Francisco,San Francisco County,2009,815358
+68,Colorado,Metropolitan Denver,Adams County,2009,440994
+69,Colorado,Metropolitan Denver,Arapahoe County,2009,565360
+70,Colorado,Metropolitan Denver,Boulder County,2009,303482
+71,Colorado,Metropolitan Denver,Broomfield County,2009,55990
+72,Colorado,Metropolitan Denver,Denver County,2009,610345
+73,Colorado,Metropolitan Denver,Douglas County,2009,288225
+74,Colorado,Metropolitan Denver,Jefferson County,2009,536922
+75,District of Columbia,District of Columbia,District of Columbia,2009,599657
+76,Florida,Tampa/Hillsborough County,Hillsborough County,2009,1195317
+77,Georgia,Atlanta,Fulton County,2009,1033756
+78,Illinois,Chicago,Cook County,2009,5287037
+79,Massachusetts,Boston,Suffolk County,2009,753580
+80,Michigan,Detroit,Wayne County,2009,1925848
+81,Nevada,Las Vegas/Clark County,Clark County,2009,1902834
+82,New York,New York City,Bronx County,2009,1397287
+83,New York,New York City,Kings County,2009,2567098
+84,New York,New York City,New York County,2009,1629054
+85,New York,New York City,Queens County,2009,2306712
+86,New York,New York City,Richmond County,2009,491730
+87,Pennsylvania,Philadelphia,Philadelphia County,2009,1547297
+88,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2009,4070989
+89,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2009,447718
+90,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2009,556870
+91,Texas,Austin/Travis County,Travis County,2009,1026158
+92,Washington,Seattle/King,King County,2009,1916441
+93,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2010,3825183
+94,California,Los Angeles City & County,Los Angeles County,2010,9821647
+95,California,San Diego City and County,San Diego County,2010,3103260
+96,California,San Jose/Santa Clara City & County,Santa Clara County,2010,1786001
+97,California,San Bernardino City & County,San Bernardino County,2010,2040803
+98,California,San Francisco,San Francisco County,2010,805519
+99,Colorado,Metropolitan Denver,Adams County,2010,443692
+100,Colorado,Metropolitan Denver,Arapahoe County,2010,575124
+101,Colorado,Metropolitan Denver,Boulder County,2010,295056
+102,Colorado,Metropolitan Denver,Broomfield County,2010,56212
+103,Colorado,Metropolitan Denver,Denver County,2010,603012
+104,Colorado,Metropolitan Denver,Douglas County,2010,287011
+105,Colorado,Metropolitan Denver,Jefferson County,2010,535567
+106,District of Columbia,District of Columbia,District of Columbia,2010,605282
+107,Florida,Tampa/Hillsborough County,Hillsborough County,2010,1233511
+108,Georgia,Atlanta,Fulton County,2010,925622
+109,Illinois,Chicago,Cook County,2010,5198977
+110,Massachusetts,Boston,Suffolk County,2010,725786
+111,Michigan,Detroit,Wayne County,2010,1814847
+112,Nevada,Las Vegas/Clark County,Clark County,2010,1952640
+113,New York,New York City,Bronx County,2010,1386929
+114,New York,New York City,Kings County,2010,2509954
+115,New York,New York City,New York County,2010,1589041
+116,New York,New York City,Queens County,2010,2234574
+117,New York,New York City,Richmond County,2010,469607
+118,Pennsylvania,Philadelphia,Philadelphia County,2010,1528303
+119,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2010,4107542
+120,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2010,459223
+121,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2010,590177
+122,Texas,Austin/Travis County,Travis County,2010,1030392
+123,Washington,Seattle/King,King County,2010,1938431
+124,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2011,3875371
+125,California,Los Angeles City & County,Los Angeles County,2011,9873700
+126,California,San Diego City and County,San Diego County,2011,3137236
+127,California,San Jose/Santa Clara City & County,Santa Clara County,2011,1811891
+128,California,San Bernardino City & County,San Bernardino County,2011,2060596
+129,California,San Francisco,San Francisco County,2011,815694
+130,Colorado,Metropolitan Denver,Adams County,2011,452209
+131,Colorado,Metropolitan Denver,Arapahoe County,2011,586433
+132,Colorado,Metropolitan Denver,Boulder County,2011,300045
+133,Colorado,Metropolitan Denver,Broomfield County,2011,57485
+134,Colorado,Metropolitan Denver,Denver County,2011,620250
+135,Colorado,Metropolitan Denver,Douglas County,2011,292626
+136,Colorado,Metropolitan Denver,Jefferson County,2011,540582
+137,District of Columbia,District of Columbia,District of Columbia,2011,620290
+138,Florida,Tampa/Hillsborough County,Hillsborough County,2011,1255639
+139,Georgia,Atlanta,Fulton County,2011,947582
+140,Illinois,Chicago,Cook County,2011,5219636
+141,Massachusetts,Boston,Suffolk County,2011,737285
+142,Michigan,Detroit,Wayne County,2011,1803003
+143,Nevada,Las Vegas/Clark County,Clark County,2011,1962162
+144,New York,New York City,Bronx County,2011,1396954
+145,New York,New York City,Kings County,2011,2540918
+146,New York,New York City,New York County,2011,1608717
+147,New York,New York City,Queens County,2011,2255261
+148,New York,New York City,Richmond County,2011,471014
+149,Pennsylvania,Philadelphia,Philadelphia County,2011,1540615
+150,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2011,4179279
+151,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2011,471456
+152,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2011,605979
+153,Texas,Austin/Travis County,Travis County,2011,1061662
+154,Washington,Seattle/King,King County,2011,1974499
+155,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2012,3948165
+156,California,Los Angeles City & County,Los Angeles County,2012,9931394
+157,California,San Diego City and County,San Diego County,2012,3175148
+158,California,San Jose/Santa Clara City & County,Santa Clara County,2012,1837605
+159,California,San Bernardino City & County,San Bernardino County,2012,2073088
+160,California,San Francisco,San Francisco County,2012,828963
+161,Colorado,Metropolitan Denver,Adams County,2012,460568
+162,Colorado,Metropolitan Denver,Arapahoe County,2012,597052
+163,Colorado,Metropolitan Denver,Boulder County,2012,304717
+164,Colorado,Metropolitan Denver,Broomfield County,2012,58971
+165,Colorado,Metropolitan Denver,Denver County,2012,634965
+166,Colorado,Metropolitan Denver,Douglas County,2012,298826
+167,Colorado,Metropolitan Denver,Jefferson County,2012,546736
+168,District of Columbia,District of Columbia,District of Columbia,2012,635737
+169,Florida,Tampa/Hillsborough County,Hillsborough County,2012,1279861
+170,Georgia,Atlanta,Fulton County,2012,973464
+171,Illinois,Chicago,Cook County,2012,5239105
+172,Massachusetts,Boston,Suffolk County,2012,751371
+173,Michigan,Detroit,Wayne County,2012,1795797
+174,Nevada,Las Vegas/Clark County,Clark County,2012,1989644
+175,New York,New York City,Bronx County,2012,1411087
+176,New York,New York City,Kings County,2012,2568538
+177,New York,New York City,New York County,2012,1624573
+178,New York,New York City,Queens County,2012,2271920
+179,New York,New York City,Richmond County,2012,470597
+180,Pennsylvania,Philadelphia,Philadelphia County,2012,1552087
+181,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2012,4262549
+182,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2012,484627
+183,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2012,624737
+184,Texas,Austin/Travis County,Travis County,2012,1096918
+185,Washington,Seattle/King,King County,2012,2011708
+186,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2013,4018657
+187,California,Los Angeles City & County,Los Angeles County,2013,9987189
+188,California,San Diego City and County,San Diego County,2013,3210788
+189,California,San Jose/Santa Clara City & County,Santa Clara County,2013,1866050
+190,California,San Bernardino City & County,San Bernardino County,2013,2082101
+191,California,San Francisco,San Francisco County,2013,839695
+192,Colorado,Metropolitan Denver,Adams County,2013,469995
+193,Colorado,Metropolitan Denver,Arapahoe County,2013,609089
+194,Colorado,Metropolitan Denver,Boulder County,2013,309538
+195,Colorado,Metropolitan Denver,Broomfield County,2013,60158
+196,Colorado,Metropolitan Denver,Denver County,2013,649270
+197,Colorado,Metropolitan Denver,Douglas County,2013,306407
+198,Colorado,Metropolitan Denver,Jefferson County,2013,552242
+199,District of Columbia,District of Columbia,District of Columbia,2013,651559
+200,Florida,Tampa/Hillsborough County,Hillsborough County,2013,1304474
+201,Georgia,Atlanta,Fulton County,2013,981844
+202,Illinois,Chicago,Cook County,2013,5252513
+203,Massachusetts,Boston,Suffolk County,2013,762863
+204,Michigan,Detroit,Wayne County,2013,1780131
+205,Nevada,Las Vegas/Clark County,Clark County,2013,2017798
+206,New York,New York City,Bronx County,2013,1421498
+207,New York,New York City,Kings County,2013,2587759
+208,New York,New York City,New York County,2013,1628379
+209,New York,New York City,Queens County,2013,2286788
+210,New York,New York City,Richmond County,2013,471783
+211,Pennsylvania,Philadelphia,Philadelphia County,2013,1558713
+212,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2013,4352419
+213,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2013,498488
+214,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2013,651770
+215,Texas,Austin/Travis County,Travis County,2013,1122346
+216,Washington,Seattle/King,King County,2013,2047967
+217,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2014,4094842
+218,California,Los Angeles City & County,Los Angeles County,2014,10033449
+219,California,San Diego City and County,San Diego County,2014,3249307
+220,California,San Jose/Santa Clara City & County,Santa Clara County,2014,1891286
+221,California,San Bernardino City & County,San Bernardino County,2014,2098346
+222,California,San Francisco,San Francisco County,2014,850918
+223,Colorado,Metropolitan Denver,Adams County,2014,479954
+224,Colorado,Metropolitan Denver,Arapahoe County,2014,619681
+225,Colorado,Metropolitan Denver,Boulder County,2014,312525
+226,Colorado,Metropolitan Denver,Broomfield County,2014,61791
+227,Colorado,Metropolitan Denver,Denver County,2014,664540
+228,Colorado,Metropolitan Denver,Douglas County,2014,314783
+229,Colorado,Metropolitan Denver,Jefferson County,2014,559099
+230,District of Columbia,District of Columbia,District of Columbia,2014,663603
+231,Florida,Tampa/Hillsborough County,Hillsborough County,2014,1332742
+232,Georgia,Atlanta,Fulton County,2014,992321
+233,Illinois,Chicago,Cook County,2014,5254108
+234,Massachusetts,Boston,Suffolk County,2014,774113
+235,Michigan,Detroit,Wayne County,2014,1771626
+236,Nevada,Las Vegas/Clark County,Clark County,2014,2053929
+237,New York,New York City,Bronx County,2014,1430474
+238,New York,New York City,Kings County,2014,2601527
+239,New York,New York City,New York County,2014,1631733
+240,New York,New York City,Queens County,2014,2298234
+241,New York,New York City,Richmond County,2014,471899
+242,Pennsylvania,Philadelphia,Philadelphia County,2014,1565949
+243,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2014,4454951
+244,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2014,517262
+245,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2014,683977
+246,Texas,Austin/Travis County,Travis County,2014,1152411
+247,Washington,Seattle/King,King County,2014,2086174
+248,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2015,4174423
+249,California,Los Angeles City & County,Los Angeles County,2015,10077263
+250,California,San Diego City and County,San Diego County,2015,3280825
+251,California,San Jose/Santa Clara City & County,Santa Clara County,2015,1915736
+252,California,San Bernardino City & County,San Bernardino County,2015,2114352
+253,California,San Francisco,San Francisco County,2015,863237
+254,Colorado,Metropolitan Denver,Adams County,2015,490448
+255,Colorado,Metropolitan Denver,Arapahoe County,2015,631688
+256,Colorado,Metropolitan Denver,Boulder County,2015,318408
+257,Colorado,Metropolitan Denver,Broomfield County,2015,64914
+258,Colorado,Metropolitan Denver,Denver County,2015,683328
+259,Colorado,Metropolitan Denver,Douglas County,2015,322333
+260,Colorado,Metropolitan Denver,Jefferson County,2015,565240
+261,District of Columbia,District of Columbia,District of Columbia,2015,677014
+262,Florida,Tampa/Hillsborough County,Hillsborough County,2015,1364645
+263,Georgia,Atlanta,Fulton County,2015,1005752
+264,Illinois,Chicago,Cook County,2015,5243371
+265,Massachusetts,Boston,Suffolk County,2015,783177
+266,Michigan,Detroit,Wayne County,2015,1764866
+267,Nevada,Las Vegas/Clark County,Clark County,2015,2097832
+268,New York,New York City,Bronx County,2015,1439480
+269,New York,New York City,Kings County,2015,2608797
+270,New York,New York City,New York County,2015,1637327
+271,New York,New York City,Queens County,2015,2305252
+272,New York,New York City,Richmond County,2015,472301
+273,Pennsylvania,Philadelphia,Philadelphia County,2015,1571679
+274,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2015,4556559
+275,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2015,535913
+276,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2015,715260
+277,Texas,Austin/Travis County,Travis County,2015,1180003
+278,Washington,Seattle/King,King County,2015,2127372
+279,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2016,4258019
+280,California,Los Angeles City & County,Los Angeles County,2016,10094865
+281,California,San Diego City and County,San Diego County,2016,3305462
+282,California,San Jose/Santa Clara City & County,Santa Clara County,2016,1928144
+283,California,San Bernardino City & County,San Bernardino County,2016,2130726
+284,California,San Francisco,San Francisco County,2016,871343
+285,Colorado,Metropolitan Denver,Adams County,2016,497735
+286,Colorado,Metropolitan Denver,Arapahoe County,2016,639605
+287,Colorado,Metropolitan Denver,Boulder County,2016,321761
+288,Colorado,Metropolitan Denver,Broomfield County,2016,66596
+289,Colorado,Metropolitan Denver,Denver County,2016,696273
+290,Colorado,Metropolitan Denver,Douglas County,2016,328680
+291,Colorado,Metropolitan Denver,Jefferson County,2016,571823
+292,District of Columbia,District of Columbia,District of Columbia,2016,687576
+293,Florida,Tampa/Hillsborough County,Hillsborough County,2016,1398093
+294,Georgia,Atlanta,Fulton County,2016,1023816
+295,Illinois,Chicago,Cook County,2016,5223386
+296,Massachusetts,Boston,Suffolk County,2016,793020
+297,Michigan,Detroit,Wayne County,2016,1760835
+298,Nevada,Las Vegas/Clark County,Clark County,2016,2140240
+299,New York,New York City,Bronx County,2016,1443678
+300,New York,New York City,Kings County,2016,2608146
+301,New York,New York City,New York County,2016,1636721
+302,New York,New York City,Queens County,2016,2306249
+303,New York,New York City,Richmond County,2016,474160
+304,Pennsylvania,Philadelphia,Philadelphia County,2016,1576604
+305,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2016,4622836
+306,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2016,555338
+307,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2016,744489
+308,Texas,Austin/Travis County,Travis County,2016,1206283
+309,Washington,Seattle/King,King County,2016,2167863
+310,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2017,4329227
+311,California,Los Angeles City & County,Los Angeles County,2017,10092365
+312,California,San Diego City and County,San Diego County,2017,3319019
+313,California,San Jose/Santa Clara City & County,Santa Clara County,2017,1932251
+314,California,San Bernardino City & County,San Bernardino County,2017,2149847
+315,California,San Francisco,San Francisco County,2017,877471
+316,Colorado,Metropolitan Denver,Adams County,2017,503717
+317,Colorado,Metropolitan Denver,Arapahoe County,2017,645080
+318,Colorado,Metropolitan Denver,Boulder County,2017,323019
+319,Colorado,Metropolitan Denver,Broomfield County,2017,68340
+320,Colorado,Metropolitan Denver,Denver County,2017,704869
+321,Colorado,Metropolitan Denver,Douglas County,2017,336347
+322,Colorado,Metropolitan Denver,Jefferson County,2017,576041
+323,District of Columbia,District of Columbia,District of Columbia,2017,697079
+324,Florida,Tampa/Hillsborough County,Hillsborough County,2017,1428960
+325,Georgia,Atlanta,Fulton County,2017,1039996
+326,Illinois,Chicago,Cook County,2017,5199582
+327,Massachusetts,Boston,Suffolk County,2017,801269
+328,Michigan,Detroit,Wayne County,2017,1757874
+329,Nevada,Las Vegas/Clark County,Clark County,2017,2183273
+330,New York,New York City,Bronx County,2017,1439956
+331,New York,New York City,Kings County,2017,2594357
+332,New York,New York City,New York County,2017,1632337
+333,New York,New York City,Queens County,2017,2295226
+334,New York,New York City,Richmond County,2017,475819
+335,Pennsylvania,Philadelphia,Philadelphia County,2017,1581699
+336,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2017,4655798
+337,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2017,571542
+338,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2017,768258
+339,Texas,Austin/Travis County,Travis County,2017,1227373
+340,Washington,Seattle/King,King County,2017,2205001
+341,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2018,4405306
+342,California,Los Angeles City & County,Los Angeles County,2018,10061533
+343,California,San Diego City and County,San Diego County,2018,3332483
+344,California,San Jose/Santa Clara City & County,Santa Clara County,2018,1931985
+345,California,San Bernardino City & County,San Bernardino County,2018,2165627
+346,California,San Francisco,San Francisco County,2018,879676
+347,Colorado,Metropolitan Denver,Adams County,2018,511485
+348,Colorado,Metropolitan Denver,Arapahoe County,2018,652395
+349,Colorado,Metropolitan Denver,Boulder County,2018,325438
+350,Colorado,Metropolitan Denver,Broomfield County,2018,69431
+351,Colorado,Metropolitan Denver,Denver County,2018,716340
+352,Colorado,Metropolitan Denver,Douglas County,2018,343780
+353,Colorado,Metropolitan Denver,Jefferson County,2018,580027
+354,District of Columbia,District of Columbia,District of Columbia,2018,704147
+355,Florida,Tampa/Hillsborough County,Hillsborough County,2018,1455351
+356,Georgia,Atlanta,Fulton County,2018,1051516
+357,Illinois,Chicago,Cook County,2018,5171007
+358,Massachusetts,Boston,Suffolk County,2018,804023
+359,Michigan,Detroit,Wayne County,2018,1755868
+360,Nevada,Las Vegas/Clark County,Clark County,2018,2228970
+361,New York,New York City,Bronx County,2018,1432316
+362,New York,New York City,Kings County,2018,2580088
+363,New York,New York City,New York County,2018,1632393
+364,New York,New York City,Queens County,2018,2275286
+365,New York,New York City,Richmond County,2018,476531
+366,Pennsylvania,Philadelphia,Philadelphia County,2018,1586422
+367,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2018,4676913
+368,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2018,590127
+369,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2018,789269
+370,Texas,Austin/Travis County,Travis County,2018,1246693
+371,Washington,Seattle/King,King County,2018,2228488
+372,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2019,4492261
+373,California,Los Angeles City & County,Los Angeles County,2019,10011602
+374,California,San Diego City and County,San Diego County,2019,3330459
+375,California,San Jose/Santa Clara City & County,Santa Clara County,2019,1922411
+376,California,San Bernardino City & County,San Bernardino County,2019,2177279
+377,California,San Francisco,San Francisco County,2019,878826
+378,Colorado,Metropolitan Denver,Adams County,2019,516575
+379,Colorado,Metropolitan Denver,Arapahoe County,2019,656051
+380,Colorado,Metropolitan Denver,Boulder County,2019,326020
+381,Colorado,Metropolitan Denver,Broomfield County,2019,70617
+382,Colorado,Metropolitan Denver,Denver County,2019,725508
+383,Colorado,Metropolitan Denver,Douglas County,2019,351842
+384,Colorado,Metropolitan Denver,Jefferson County,2019,582800
+385,District of Columbia,District of Columbia,District of Columbia,2019,708253
+386,Florida,Tampa/Hillsborough County,Hillsborough County,2019,1476431
+387,Georgia,Atlanta,Fulton County,2019,1065019
+388,Illinois,Chicago,Cook County,2019,5145326
+389,Massachusetts,Boston,Suffolk County,2019,805915
+390,Michigan,Detroit,Wayne County,2019,1750093
+391,Nevada,Las Vegas/Clark County,Clark County,2019,2275884
+392,New York,New York City,Bronx County,2019,1418187
+393,New York,New York City,Kings County,2019,2562329
+394,New York,New York City,New York County,2019,1632326
+395,New York,New York City,Queens County,2019,2253942
+396,New York,New York City,Richmond County,2019,476141
+397,Pennsylvania,Philadelphia,Philadelphia County,2019,1584439
+398,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2019,4709243
+399,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2019,607583
+400,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2019,812737
+401,Texas,Austin/Travis County,Travis County,2019,1273567
+402,Washington,Seattle/King,King County,2019,2249653
+403,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2020,4579081
+404,California,Los Angeles City & County,Los Angeles County,2020,9943046
+405,California,San Diego City and County,San Diego County,2020,3332427
+406,California,San Jose/Santa Clara City & County,Santa Clara County,2020,1907105
+407,California,San Bernardino City & County,San Bernardino County,2020,2189183
+408,California,San Francisco,San Francisco County,2020,866606
+409,Colorado,Metropolitan Denver,Adams County,2020,519883
+410,Colorado,Metropolitan Denver,Arapahoe County,2020,657452
+411,Colorado,Metropolitan Denver,Boulder County,2020,327171
+412,Colorado,Metropolitan Denver,Broomfield County,2020,72236
+413,Colorado,Metropolitan Denver,Denver County,2020,735538
+414,Colorado,Metropolitan Denver,Douglas County,2020,360750
+415,Colorado,Metropolitan Denver,Jefferson County,2020,583283
+416,District of Columbia,District of Columbia,District of Columbia,2020,712816
+417,Florida,Tampa/Hillsborough County,Hillsborough County,2020,1497957
+418,Georgia,Atlanta,Fulton County,2020,1077402
+419,Illinois,Chicago,Cook County,2020,5108284
+420,Massachusetts,Boston,Suffolk County,2020,801582
+421,Michigan,Detroit,Wayne County,2020,1740623
+422,Nevada,Las Vegas/Clark County,Clark County,2020,2315963
+423,New York,New York City,Bronx County,2020,1401142
+424,New York,New York City,Kings County,2020,2538934
+425,New York,New York City,New York County,2020,1611989
+426,New York,New York City,Queens County,2020,2225821
+427,New York,New York City,Richmond County,2020,475327
+428,Pennsylvania,Philadelphia,Philadelphia County,2020,1578487
+429,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2020,4738253
+430,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2020,626351
+431,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2020,839706
+432,Texas,Austin/Travis County,Travis County,2020,1300503
+433,Washington,Seattle/King,King County,2020,2274315
+434,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2021,4494693
+435,California,Los Angeles City & County,Los Angeles County,2021,9811842
+436,California,San Diego City and County,San Diego County,2021,3274954
+437,California,San Jose/Santa Clara City & County,Santa Clara County,2021,1886595
+438,California,San Bernardino City & County,San Bernardino County,2021,2192882
+439,California,San Francisco,San Francisco County,2021,811253
+440,Colorado,Metropolitan Denver,Adams County,2021,523592
+441,Colorado,Metropolitan Denver,Arapahoe County,2021,656557
+442,Colorado,Metropolitan Denver,Boulder County,2021,327075
+443,Colorado,Metropolitan Denver,Broomfield County,2021,75375
+444,Colorado,Metropolitan Denver,Denver County,2021,711323
+445,Colorado,Metropolitan Denver,Douglas County,2021,369825
+446,Colorado,Metropolitan Denver,Jefferson County,2021,580926
+447,District of Columbia,District of Columbia,District of Columbia,2021,668791
+448,Florida,Tampa/Hillsborough County,Hillsborough County,2021,1484455
+449,Georgia,Atlanta,Fulton County,2021,1062531
+450,Illinois,Chicago,Cook County,2021,5177606
+451,Massachusetts,Boston,Suffolk County,2021,771765
+452,Michigan,Detroit,Wayne County,2021,1773073
+453,Nevada,Las Vegas/Clark County,Clark County,2021,2295194
+454,New York,New York City,Bronx County,2021,1421089
+455,New York,New York City,Kings County,2021,2637486
+456,New York,New York City,New York County,2021,1578801
+457,New York,New York City,Queens County,2021,2328141
+458,New York,New York City,Richmond County,2021,493484
+459,Pennsylvania,Philadelphia,Philadelphia County,2021,1589480
+460,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2021,4735287
+461,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2021,650261
+462,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2021,860124
+463,Texas,Austin/Travis County,Travis County,2021,1308544
+464,Washington,Seattle/King,King County,2021,2253038
+465,Arizona,"Phoenix,Mesa/Maricopa",Maricopa County,2022,4551524
+466,California,Los Angeles City & County,Los Angeles County,2022,9721138
+467,California,San Diego City and County,San Diego County,2022,3276208
+468,California,San Jose/Santa Clara City & County,Santa Clara County,2022,1870945
+469,California,San Bernardino City & County,San Bernardino County,2022,2193656
+470,California,San Francisco,San Francisco County,2022,808437
+471,Colorado,Metropolitan Denver,Adams County,2022,527575
+472,Colorado,Metropolitan Denver,Arapahoe County,2022,655808
+473,Colorado,Metropolitan Denver,Boulder County,2022,327468
+474,Colorado,Metropolitan Denver,Broomfield County,2022,76121
+475,Colorado,Metropolitan Denver,Denver County,2022,713252
+476,Colorado,Metropolitan Denver,Douglas County,2022,375988
+477,Colorado,Metropolitan Denver,Jefferson County,2022,576143
+478,District of Columbia,District of Columbia,District of Columbia,2022,671803
+479,Florida,Tampa/Hillsborough County,Hillsborough County,2022,1513301
+480,Georgia,Atlanta,Fulton County,2022,1074634
+481,Illinois,Chicago,Cook County,2022,5109292
+482,Massachusetts,Boston,Suffolk County,2022,766381
+483,Michigan,Detroit,Wayne County,2022,1757043
+484,Nevada,Las Vegas/Clark County,Clark County,2022,2322985
+485,New York,New York City,Bronx County,2022,1379946
+486,New York,New York City,Kings County,2022,2590516
+487,New York,New York City,New York County,2022,1596273
+488,New York,New York City,Queens County,2022,2278029
+489,New York,New York City,Richmond County,2022,491133
+490,Pennsylvania,Philadelphia,Philadelphia County,2022,1567258
+491,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,2022,4780913
+492,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,2022,678490
+493,Texas,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,2022,889146
+494,Texas,Austin/Travis County,Travis County,2022,1326436
+495,Washington,Seattle/King,King County,2022,2266789
