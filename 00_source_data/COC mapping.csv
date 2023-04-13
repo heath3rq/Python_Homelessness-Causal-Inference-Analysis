@@ -1,0 +1,32 @@
+State,State name,CoC Code,Coc,Counties,FIPS codes
+AZ,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,04013
+CA,California,CA-600,Los Angeles City & County,Los Angeles County,06037
+CA,California,CA-601,San Diego City and County,San Diego County,06073 
+CA,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,06085
+CA,California,CA-609,San Bernardino City & County,San Bernardino County,06071
+CA,California,CA-501,San Francisco,San Francisco County,06075
+CO,Colorado,CO-503,Metropolitan Denver,Adams County,8001
+CO,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005
+CO,Colorado,CO-503,Metropolitan Denver,Boulder County,8013
+CO,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014
+CO,Colorado,CO-503,Metropolitan Denver,Denver County,8031
+CO,Colorado,CO-503,Metropolitan Denver,Douglas County,8035
+CO,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059
+DC,District of Columbia,DC-500,District of Columbia,District of Columbia,11001
+FL,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057
+GA,Georgia,GA-500,Atlanta,Fulton County,05049
+IL,Illinois,IL-510,Chicago,Cook County,17031
+MA,Massachusetts,MA-500,Boston,Suffolk County,25025
+MI,Michigan,MI-501,Detroit,Wayne County,26163
+NV,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003
+NY,New York,NY-600,New York City,Bronx County,36005
+NY,New York,NY-600,New York City,Kings County,36047
+NY,New York,NY-600,New York City,New York County,36061
+NY,New York,NY-600,New York City,Queens County,36081
+NY,New York,NY-600,New York City,Richmond County,36085
+PA,Pennsylvania,PA-500,Philadelphia,Philadelphia Count,42101
+TX,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201
+TX,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339
+TX,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157
+TX,Texas,TX-503,Austin/Travis County,Travis County,48453
+WA,Washington,WA-500,Seattle/King,King County,53033
