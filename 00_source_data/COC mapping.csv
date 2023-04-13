@@ -1,4 +1,4 @@
-State,State name,CoC Code,Coc,Counties,FIPS codes
+State,STNAME,CoC Code,Coc,CTYNAME,FIPS code
 AZ,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,04013
 CA,California,CA-600,Los Angeles City & County,Los Angeles County,06037
 CA,California,CA-601,San Diego City and County,San Diego County,06073 
