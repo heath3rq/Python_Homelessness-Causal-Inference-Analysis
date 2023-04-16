@@ -1,3 +1,3 @@
 ### Intermediate files
 
-Add structure of our data set
+Population and Race data : population_race.csv
