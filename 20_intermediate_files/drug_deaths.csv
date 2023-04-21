@@ -1,0 +1,466 @@
+,STNAME,CoC Code,Coc,CTYNAME,FIPS code,Year,Drug Deaths
+84,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2007,75.0
+85,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2008,64.0
+86,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2009,71.0
+87,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2010,66.0
+88,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2011,93.0
+89,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2012,96.0
+90,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2013,82.0
+91,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2014,96.0
+92,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2015,86.0
+93,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2016,95.0
+94,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2017,110.0
+95,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2018,106.0
+96,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2019,89.0
+97,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2020,134.0
+430,Colorado,CO-503,Metropolitan Denver,Adams County,8001,2021,216.0
+98,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2007,95.0
+99,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2008,94.0
+100,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2009,99.0
+101,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2010,82.0
+102,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2011,82.0
+103,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2012,87.0
+104,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2013,102.0
+105,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2014,102.0
+106,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2015,103.0
+107,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2016,96.0
+108,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2017,85.0
+109,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2018,109.0
+110,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2019,107.0
+111,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2020,139.0
+431,Colorado,CO-503,Metropolitan Denver,Arapahoe County,8005,2021,169.0
+112,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2007,47.0
+113,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2008,43.0
+114,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2009,46.0
+115,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2010,23.0
+116,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2011,40.0
+117,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2012,35.0
+118,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2013,56.0
+119,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2014,47.0
+120,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2015,40.0
+121,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2016,36.0
+122,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2017,45.0
+123,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2018,36.0
+124,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2019,46.0
+125,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2020,51.0
+432,Colorado,CO-503,Metropolitan Denver,Boulder County,8013,2021,50.0
+270,New York,NY-600,New York City,Bronx County,36005,2007,173.0
+271,New York,NY-600,New York City,Bronx County,36005,2008,137.0
+272,New York,NY-600,New York City,Bronx County,36005,2009,134.0
+273,New York,NY-600,New York City,Bronx County,36005,2010,111.0
+274,New York,NY-600,New York City,Bronx County,36005,2011,134.0
+275,New York,NY-600,New York City,Bronx County,36005,2012,165.0
+276,New York,NY-600,New York City,Bronx County,36005,2013,155.0
+277,New York,NY-600,New York City,Bronx County,36005,2014,141.0
+278,New York,NY-600,New York City,Bronx County,36005,2015,225.0
+279,New York,NY-600,New York City,Bronx County,36005,2016,330.0
+280,New York,NY-600,New York City,Bronx County,36005,2017,360.0
+281,New York,NY-600,New York City,Bronx County,36005,2018,397.0
+282,New York,NY-600,New York City,Bronx County,36005,2019,408.0
+283,New York,NY-600,New York City,Bronx County,36005,2020,558.0
+444,New York,NY-600,New York City,Bronx County,36005,2021,816.0
+457,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2007,
+458,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2008,
+459,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2009,
+460,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2010,
+461,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2011,
+462,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2012,
+126,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2013,11.0
+463,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2014,
+464,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2015,
+127,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2016,12.0
+456,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2017,
+128,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2018,12.0
+129,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2019,10.0
+130,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2020,10.0
+433,Colorado,CO-503,Metropolitan Denver,Broomfield County,8014,2021,11.0
+256,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2007,376.0
+257,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2008,364.0
+258,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2009,395.0
+259,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2010,390.0
+260,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2011,456.0
+261,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2012,424.0
+262,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2013,441.0
+263,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2014,403.0
+264,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2015,439.0
+265,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2016,479.0
+266,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2017,464.0
+267,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2018,491.0
+268,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2019,445.0
+269,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2020,605.0
+443,Nevada,NV-500,Las Vegas/Clark County,Clark County,32003,2021,670.0
+214,Illinois,IL-510,Chicago,Cook County,17031,2007,518.0
+215,Illinois,IL-510,Chicago,Cook County,17031,2008,544.0
+216,Illinois,IL-510,Chicago,Cook County,17031,2009,530.0
+217,Illinois,IL-510,Chicago,Cook County,17031,2010,488.0
+218,Illinois,IL-510,Chicago,Cook County,17031,2011,503.0
+219,Illinois,IL-510,Chicago,Cook County,17031,2012,615.0
+220,Illinois,IL-510,Chicago,Cook County,17031,2013,628.0
+221,Illinois,IL-510,Chicago,Cook County,17031,2014,622.0
+222,Illinois,IL-510,Chicago,Cook County,17031,2015,697.0
+223,Illinois,IL-510,Chicago,Cook County,17031,2016,1114.0
+224,Illinois,IL-510,Chicago,Cook County,17031,2017,1235.0
+225,Illinois,IL-510,Chicago,Cook County,17031,2018,1214.0
+226,Illinois,IL-510,Chicago,Cook County,17031,2019,1359.0
+227,Illinois,IL-510,Chicago,Cook County,17031,2020,1894.0
+440,Illinois,IL-510,Chicago,Cook County,17031,2021,1996.0
+131,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2007,148.0
+132,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2008,170.0
+133,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2009,169.0
+134,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2010,127.0
+135,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2011,163.0
+136,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2012,126.0
+137,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2013,119.0
+138,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2014,134.0
+139,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2015,117.0
+140,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2016,128.0
+141,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2017,152.0
+142,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2018,154.0
+143,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2019,172.0
+144,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2020,302.0
+434,Colorado,CO-503,Metropolitan Denver,Denver County,8031,2021,364.0
+172,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2007,61.0
+173,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2008,56.0
+174,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2009,26.0
+175,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2010,78.0
+176,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2011,86.0
+177,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2012,77.0
+178,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2013,102.0
+179,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2014,96.0
+180,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2015,125.0
+181,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2016,269.0
+182,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2017,310.0
+183,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2018,254.0
+184,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2019,311.0
+185,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2020,424.0
+437,District of Columbia,DC-500,District of Columbia,District of Columbia,11001,2021,450.0
+145,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2007,17.0
+455,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2008,20.0
+146,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2009,23.0
+147,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2010,23.0
+148,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2011,28.0
+149,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2012,30.0
+150,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2013,30.0
+151,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2014,23.0
+152,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2015,21.0
+153,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2016,37.0
+154,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2017,30.0
+155,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2018,25.0
+156,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2019,32.0
+157,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2020,48.0
+435,Colorado,CO-503,Metropolitan Denver,Douglas County,8035,2021,42.0
+382,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2007,22.0
+383,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2008,16.0
+384,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2009,28.0
+385,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2010,34.0
+386,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2011,40.0
+387,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2012,19.0
+388,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2013,18.0
+389,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2014,36.0
+390,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2015,34.0
+391,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2016,50.0
+392,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2017,41.0
+393,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2018,52.0
+394,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2019,50.0
+395,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2020,77.0
+452,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Fort Bend County,48157,2021,78.0
+200,Georgia,GA-500,Atlanta,Fulton County,13121,2007,101.0
+201,Georgia,GA-500,Atlanta,Fulton County,13121,2008,116.0
+202,Georgia,GA-500,Atlanta,Fulton County,13121,2009,81.0
+203,Georgia,GA-500,Atlanta,Fulton County,13121,2010,110.0
+204,Georgia,GA-500,Atlanta,Fulton County,13121,2011,98.0
+205,Georgia,GA-500,Atlanta,Fulton County,13121,2012,95.0
+206,Georgia,GA-500,Atlanta,Fulton County,13121,2013,124.0
+207,Georgia,GA-500,Atlanta,Fulton County,13121,2014,140.0
+208,Georgia,GA-500,Atlanta,Fulton County,13121,2015,146.0
+209,Georgia,GA-500,Atlanta,Fulton County,13121,2016,162.0
+210,Georgia,GA-500,Atlanta,Fulton County,13121,2017,164.0
+211,Georgia,GA-500,Atlanta,Fulton County,13121,2018,170.0
+212,Georgia,GA-500,Atlanta,Fulton County,13121,2019,155.0
+213,Georgia,GA-500,Atlanta,Fulton County,13121,2020,205.0
+439,Georgia,GA-500,Atlanta,Fulton County,13121,2021,283.0
+354,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2007,501.0
+355,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2008,286.0
+356,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2009,414.0
+357,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2010,445.0
+358,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2011,385.0
+359,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2012,368.0
+360,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2013,429.0
+361,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2014,403.0
+362,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2015,459.0
+363,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2016,522.0
+364,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2017,536.0
+365,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2018,592.0
+366,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2019,615.0
+367,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2020,891.0
+450,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Harris County,48201,2021,1071.0
+186,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2007,258.0
+187,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2008,246.0
+188,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2009,273.0
+189,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2010,263.0
+190,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2011,245.0
+191,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2012,190.0
+192,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2013,167.0
+193,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2014,163.0
+194,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2015,176.0
+195,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2016,227.0
+196,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2017,236.0
+197,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2018,271.0
+198,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2019,280.0
+199,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2020,493.0
+438,Florida,FL-501,Tampa/Hillsborough County,Hillsborough County,12057,2021,535.0
+158,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2007,76.0
+159,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2008,66.0
+160,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2009,62.0
+161,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2010,57.0
+162,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2011,73.0
+163,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2012,81.0
+164,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2013,83.0
+165,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2014,88.0
+166,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2015,87.0
+167,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2016,91.0
+168,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2017,95.0
+169,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2018,96.0
+170,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2019,96.0
+171,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2020,151.0
+436,Colorado,CO-503,Metropolitan Denver,Jefferson County,8059,2021,178.0
+410,Washington,WA-500,Seattle/King,King County,53033,2007,258.0
+411,Washington,WA-500,Seattle/King,King County,53033,2008,245.0
+412,Washington,WA-500,Seattle/King,King County,53033,2009,239.0
+413,Washington,WA-500,Seattle/King,King County,53033,2010,246.0
+414,Washington,WA-500,Seattle/King,King County,53033,2011,236.0
+415,Washington,WA-500,Seattle/King,King County,53033,2012,261.0
+416,Washington,WA-500,Seattle/King,King County,53033,2013,282.0
+417,Washington,WA-500,Seattle/King,King County,53033,2014,300.0
+418,Washington,WA-500,Seattle/King,King County,53033,2015,285.0
+419,Washington,WA-500,Seattle/King,King County,53033,2016,308.0
+420,Washington,WA-500,Seattle/King,King County,53033,2017,335.0
+421,Washington,WA-500,Seattle/King,King County,53033,2018,368.0
+422,Washington,WA-500,Seattle/King,King County,53033,2019,414.0
+423,Washington,WA-500,Seattle/King,King County,53033,2020,495.0
+454,Washington,WA-500,Seattle/King,King County,53033,2021,667.0
+284,New York,NY-600,New York City,Kings County,36047,2007,216.0
+285,New York,NY-600,New York City,Kings County,36047,2008,186.0
+286,New York,NY-600,New York City,Kings County,36047,2009,182.0
+287,New York,NY-600,New York City,Kings County,36047,2010,180.0
+288,New York,NY-600,New York City,Kings County,36047,2011,191.0
+289,New York,NY-600,New York City,Kings County,36047,2012,206.0
+290,New York,NY-600,New York City,Kings County,36047,2013,193.0
+291,New York,NY-600,New York City,Kings County,36047,2014,222.0
+292,New York,NY-600,New York City,Kings County,36047,2015,247.0
+293,New York,NY-600,New York City,Kings County,36047,2016,334.0
+294,New York,NY-600,New York City,Kings County,36047,2017,378.0
+295,New York,NY-600,New York City,Kings County,36047,2018,300.0
+296,New York,NY-600,New York City,Kings County,36047,2019,339.0
+297,New York,NY-600,New York City,Kings County,36047,2020,465.0
+445,New York,NY-600,New York City,Kings County,36047,2021,630.0
+14,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2007,755.0
+15,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2008,707.0
+16,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2009,770.0
+17,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2010,700.0
+18,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2011,684.0
+19,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2012,682.0
+20,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2013,815.0
+21,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2014,735.0
+22,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2015,732.0
+23,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2016,821.0
+24,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2017,917.0
+25,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2018,988.0
+26,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2019,1267.0
+27,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2020,2021.0
+425,California,CA-600,Los Angeles City & County,Los Angeles County,6037,2021,2322.0
+0,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2007,575.0
+1,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2008,526.0
+2,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2009,566.0
+3,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2010,609.0
+4,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2011,627.0
+5,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2012,630.0
+6,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2013,705.0
+7,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2014,695.0
+8,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2015,707.0
+9,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2016,797.0
+10,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2017,969.0
+11,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2018,1079.0
+12,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2019,1223.0
+13,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2020,1616.0
+424,Arizona,AZ-502,"Phoenix,Mesa/Maricopa",Maricopa County,4013,2021,1697.0
+368,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2007,67.0
+369,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2008,57.0
+370,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2009,61.0
+371,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2010,39.0
+372,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2011,44.0
+373,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2012,45.0
+374,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2013,49.0
+375,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2014,43.0
+376,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2015,60.0
+377,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2016,68.0
+378,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2017,98.0
+379,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2018,73.0
+380,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2019,92.0
+381,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2020,113.0
+451,Texas,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery",Montgomery County,48339,2021,129.0
+298,New York,NY-600,New York City,New York County,36061,2007,155.0
+299,New York,NY-600,New York City,New York County,36061,2008,139.0
+300,New York,NY-600,New York City,New York County,36061,2009,122.0
+301,New York,NY-600,New York City,New York County,36061,2010,99.0
+302,New York,NY-600,New York City,New York County,36061,2011,127.0
+303,New York,NY-600,New York City,New York County,36061,2012,187.0
+304,New York,NY-600,New York City,New York County,36061,2013,181.0
+305,New York,NY-600,New York City,New York County,36061,2014,166.0
+306,New York,NY-600,New York City,New York County,36061,2015,167.0
+307,New York,NY-600,New York City,New York County,36061,2016,270.0
+308,New York,NY-600,New York City,New York County,36061,2017,256.0
+309,New York,NY-600,New York City,New York County,36061,2018,280.0
+310,New York,NY-600,New York City,New York County,36061,2019,325.0
+311,New York,NY-600,New York City,New York County,36061,2020,396.0
+446,New York,NY-600,New York City,New York County,36061,2021,494.0
+340,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2007,356.0
+341,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2008,383.0
+342,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2009,351.0
+343,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2010,342.0
+344,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2011,436.0
+345,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2012,460.0
+346,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2013,402.0
+347,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2014,516.0
+348,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2015,568.0
+349,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2016,746.0
+350,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2017,1047.0
+351,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2018,950.0
+352,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2019,1005.0
+353,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2020,1114.0
+449,Pennsylvania,PA-500,Philadelphia,Philadelphia County,42101,2021,1174.0
+312,New York,NY-600,New York City,Queens County,36081,2007,158.0
+313,New York,NY-600,New York City,Queens County,36081,2008,130.0
+314,New York,NY-600,New York City,Queens County,36081,2009,127.0
+315,New York,NY-600,New York City,Queens County,36081,2010,132.0
+316,New York,NY-600,New York City,Queens County,36081,2011,143.0
+317,New York,NY-600,New York City,Queens County,36081,2012,133.0
+318,New York,NY-600,New York City,Queens County,36081,2013,180.0
+319,New York,NY-600,New York City,Queens County,36081,2014,151.0
+320,New York,NY-600,New York City,Queens County,36081,2015,163.0
+321,New York,NY-600,New York City,Queens County,36081,2016,263.0
+322,New York,NY-600,New York City,Queens County,36081,2017,284.0
+323,New York,NY-600,New York City,Queens County,36081,2018,265.0
+324,New York,NY-600,New York City,Queens County,36081,2019,264.0
+325,New York,NY-600,New York City,Queens County,36081,2020,407.0
+447,New York,NY-600,New York City,Queens County,36081,2021,431.0
+326,New York,NY-600,New York City,Richmond County,36085,2007,51.0
+327,New York,NY-600,New York City,Richmond County,36085,2008,56.0
+328,New York,NY-600,New York City,Richmond County,36085,2009,60.0
+329,New York,NY-600,New York City,Richmond County,36085,2010,69.0
+330,New York,NY-600,New York City,Richmond County,36085,2011,79.0
+331,New York,NY-600,New York City,Richmond County,36085,2012,87.0
+332,New York,NY-600,New York City,Richmond County,36085,2013,76.0
+333,New York,NY-600,New York City,Richmond County,36085,2014,85.0
+334,New York,NY-600,New York City,Richmond County,36085,2015,85.0
+335,New York,NY-600,New York City,Richmond County,36085,2016,129.0
+336,New York,NY-600,New York City,Richmond County,36085,2017,117.0
+337,New York,NY-600,New York City,Richmond County,36085,2018,123.0
+338,New York,NY-600,New York City,Richmond County,36085,2019,120.0
+339,New York,NY-600,New York City,Richmond County,36085,2020,140.0
+448,New York,NY-600,New York City,Richmond County,36085,2021,169.0
+56,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2007,69.0
+57,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2008,109.0
+58,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2009,137.0
+59,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2010,134.0
+60,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2011,111.0
+61,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2012,127.0
+62,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2013,125.0
+63,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2014,124.0
+64,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2015,102.0
+65,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2016,94.0
+66,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2017,197.0
+67,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2018,278.0
+68,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2019,252.0
+69,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2020,518.0
+428,California,CA-609,San Bernardino City & County,San Bernardino County,6071,2021,559.0
+28,California,CA-601,San Diego City and County,San Diego County,6073,2007,357.0
+29,California,CA-601,San Diego City and County,San Diego County,6073,2008,361.0
+30,California,CA-601,San Diego City and County,San Diego County,6073,2009,368.0
+31,California,CA-601,San Diego City and County,San Diego County,6073,2010,367.0
+32,California,CA-601,San Diego City and County,San Diego County,6073,2011,415.0
+33,California,CA-601,San Diego City and County,San Diego County,6073,2012,424.0
+34,California,CA-601,San Diego City and County,San Diego County,6073,2013,428.0
+35,California,CA-601,San Diego City and County,San Diego County,6073,2014,419.0
+36,California,CA-601,San Diego City and County,San Diego County,6073,2015,419.0
+37,California,CA-601,San Diego City and County,San Diego County,6073,2016,434.0
+38,California,CA-601,San Diego City and County,San Diego County,6073,2017,483.0
+39,California,CA-601,San Diego City and County,San Diego County,6073,2018,481.0
+40,California,CA-601,San Diego City and County,San Diego County,6073,2019,483.0
+41,California,CA-601,San Diego City and County,San Diego County,6073,2020,760.0
+426,California,CA-601,San Diego City and County,San Diego County,6073,2021,980.0
+70,California,CA-501,San Francisco,San Francisco County,6075,2007,186.0
+71,California,CA-501,San Francisco,San Francisco County,6075,2008,173.0
+72,California,CA-501,San Francisco,San Francisco County,6075,2009,172.0
+73,California,CA-501,San Francisco,San Francisco County,6075,2010,170.0
+74,California,CA-501,San Francisco,San Francisco County,6075,2011,194.0
+75,California,CA-501,San Francisco,San Francisco County,6075,2012,136.0
+76,California,CA-501,San Francisco,San Francisco County,6075,2013,130.0
+77,California,CA-501,San Francisco,San Francisco County,6075,2014,164.0
+78,California,CA-501,San Francisco,San Francisco County,6075,2015,196.0
+79,California,CA-501,San Francisco,San Francisco County,6075,2016,186.0
+80,California,CA-501,San Francisco,San Francisco County,6075,2017,184.0
+81,California,CA-501,San Francisco,San Francisco County,6075,2018,237.0
+82,California,CA-501,San Francisco,San Francisco County,6075,2019,402.0
+83,California,CA-501,San Francisco,San Francisco County,6075,2020,547.0
+429,California,CA-501,San Francisco,San Francisco County,6075,2021,554.0
+42,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2007,141.0
+43,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2008,114.0
+44,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2009,115.0
+45,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2010,133.0
+46,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2011,144.0
+47,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2012,142.0
+48,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2013,152.0
+49,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2014,134.0
+50,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2015,141.0
+51,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2016,150.0
+52,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2017,157.0
+53,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2018,175.0
+54,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2019,216.0
+55,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2020,302.0
+427,California,CA-500,San Jose/Santa Clara City & County,Santa Clara County,6085,2021,321.0
+228,Massachusetts,MA-500,Boston,Suffolk County,25025,2007,136.0
+229,Massachusetts,MA-500,Boston,Suffolk County,25025,2008,97.0
+230,Massachusetts,MA-500,Boston,Suffolk County,25025,2009,126.0
+231,Massachusetts,MA-500,Boston,Suffolk County,25025,2010,83.0
+232,Massachusetts,MA-500,Boston,Suffolk County,25025,2011,98.0
+233,Massachusetts,MA-500,Boston,Suffolk County,25025,2012,99.0
+234,Massachusetts,MA-500,Boston,Suffolk County,25025,2013,128.0
+235,Massachusetts,MA-500,Boston,Suffolk County,25025,2014,131.0
+236,Massachusetts,MA-500,Boston,Suffolk County,25025,2015,189.0
+237,Massachusetts,MA-500,Boston,Suffolk County,25025,2016,258.0
+238,Massachusetts,MA-500,Boston,Suffolk County,25025,2017,275.0
+239,Massachusetts,MA-500,Boston,Suffolk County,25025,2018,233.0
+240,Massachusetts,MA-500,Boston,Suffolk County,25025,2019,248.0
+241,Massachusetts,MA-500,Boston,Suffolk County,25025,2020,310.0
+441,Massachusetts,MA-500,Boston,Suffolk County,25025,2021,337.0
+396,Texas,TX-503,Austin/Travis County,Travis County,48453,2007,98.0
+397,Texas,TX-503,Austin/Travis County,Travis County,48453,2008,80.0
+398,Texas,TX-503,Austin/Travis County,Travis County,48453,2009,118.0
+399,Texas,TX-503,Austin/Travis County,Travis County,48453,2010,120.0
+400,Texas,TX-503,Austin/Travis County,Travis County,48453,2011,154.0
+401,Texas,TX-503,Austin/Travis County,Travis County,48453,2012,156.0
+402,Texas,TX-503,Austin/Travis County,Travis County,48453,2013,156.0
+403,Texas,TX-503,Austin/Travis County,Travis County,48453,2014,131.0
+404,Texas,TX-503,Austin/Travis County,Travis County,48453,2015,137.0
+405,Texas,TX-503,Austin/Travis County,Travis County,48453,2016,147.0
+406,Texas,TX-503,Austin/Travis County,Travis County,48453,2017,146.0
+407,Texas,TX-503,Austin/Travis County,Travis County,48453,2018,162.0
+408,Texas,TX-503,Austin/Travis County,Travis County,48453,2019,165.0
+409,Texas,TX-503,Austin/Travis County,Travis County,48453,2020,216.0
+453,Texas,TX-503,Austin/Travis County,Travis County,48453,2021,269.0
+242,Michigan,MI-501,Detroit,Wayne County,26163,2007,279.0
+243,Michigan,MI-501,Detroit,Wayne County,26163,2008,269.0
+244,Michigan,MI-501,Detroit,Wayne County,26163,2009,306.0
+245,Michigan,MI-501,Detroit,Wayne County,26163,2010,272.0
+246,Michigan,MI-501,Detroit,Wayne County,26163,2011,278.0
+247,Michigan,MI-501,Detroit,Wayne County,26163,2012,296.0
+248,Michigan,MI-501,Detroit,Wayne County,26163,2013,386.0
+249,Michigan,MI-501,Detroit,Wayne County,26163,2014,457.0
+250,Michigan,MI-501,Detroit,Wayne County,26163,2015,577.0
+251,Michigan,MI-501,Detroit,Wayne County,26163,2016,674.0
+252,Michigan,MI-501,Detroit,Wayne County,26163,2017,756.0
+253,Michigan,MI-501,Detroit,Wayne County,26163,2018,775.0
+254,Michigan,MI-501,Detroit,Wayne County,26163,2019,756.0
+255,Michigan,MI-501,Detroit,Wayne County,26163,2020,804.0
+442,Michigan,MI-501,Detroit,Wayne County,26163,2021,911.0
