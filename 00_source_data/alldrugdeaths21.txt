@@ -1,0 +1,514 @@
+"Notes"	"State"	"State Code"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Arizona"	"04"	"Apache County, AZ"	"04001"	"2021 "	"2021"	28	65623	42.7
+	"Arizona"	"04"	"Cochise County, AZ"	"04003"	"2021 "	"2021"	40	126050	31.7
+	"Arizona"	"04"	"Coconino County, AZ"	"04005"	"2021 "	"2021"	41	145052	28.3
+	"Arizona"	"04"	"Gila County, AZ"	"04007"	"2021 "	"2021"	21	53589	39.2
+	"Arizona"	"04"	"Graham County, AZ"	"04009"	"2021 "	"2021"	14	39050	Unreliable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2021 "	"2021"	1697	4496588	37.7
+	"Arizona"	"04"	"Mohave County, AZ"	"04015"	"2021 "	"2021"	64	217692	29.4
+	"Arizona"	"04"	"Navajo County, AZ"	"04017"	"2021 "	"2021"	51	108147	47.2
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2021 "	"2021"	473	1052030	45.0
+	"Arizona"	"04"	"Pinal County, AZ"	"04021"	"2021 "	"2021"	129	449557	28.7
+	"Arizona"	"04"	"Santa Cruz County, AZ"	"04023"	"2021 "	"2021"	16	47883	Unreliable
+	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	"2021 "	"2021"	78	242253	32.2
+	"Arizona"	"04"	"Yuma County, AZ"	"04027"	"2021 "	"2021"	65	206990	31.4
+	"California"	"06"	"Alameda County, CA"	"06001"	"2021 "	"2021"	332	1648556	20.1
+	"California"	"06"	"Amador County, CA"	"06005"	"2021 "	"2021"	11	41259	Unreliable
+	"California"	"06"	"Butte County, CA"	"06007"	"2021 "	"2021"	120	208309	57.6
+	"California"	"06"	"Calaveras County, CA"	"06009"	"2021 "	"2021"	12	46221	Unreliable
+	"California"	"06"	"Contra Costa County, CA"	"06013"	"2021 "	"2021"	265	1161413	22.8
+	"California"	"06"	"Del Norte County, CA"	"06015"	"2021 "	"2021"	10	28100	Unreliable
+	"California"	"06"	"El Dorado County, CA"	"06017"	"2021 "	"2021"	49	193221	25.4
+	"California"	"06"	"Fresno County, CA"	"06019"	"2021 "	"2021"	200	1013581	19.7
+	"California"	"06"	"Glenn County, CA"	"06021"	"2021 "	"2021"	12	28805	Unreliable
+	"California"	"06"	"Humboldt County, CA"	"06023"	"2021 "	"2021"	59	136310	43.3
+	"California"	"06"	"Imperial County, CA"	"06025"	"2021 "	"2021"	19	179851	Unreliable
+	"California"	"06"	"Inyo County, CA"	"06027"	"2021 "	"2021"	12	18970	Unreliable
+	"California"	"06"	"Kern County, CA"	"06029"	"2021 "	"2021"	492	917673	53.6
+	"California"	"06"	"Kings County, CA"	"06031"	"2021 "	"2021"	29	153443	18.9
+	"California"	"06"	"Lake County, CA"	"06033"	"2021 "	"2021"	67	68766	97.4
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2021 "	"2021"	2322	9829544	23.6
+	"California"	"06"	"Madera County, CA"	"06039"	"2021 "	"2021"	35	159410	22.0
+	"California"	"06"	"Marin County, CA"	"06041"	"2021 "	"2021"	65	260206	25.0
+	"California"	"06"	"Mendocino County, CA"	"06045"	"2021 "	"2021"	73	91305	80.0
+	"California"	"06"	"Merced County, CA"	"06047"	"2021 "	"2021"	55	286461	19.2
+	"California"	"06"	"Monterey County, CA"	"06053"	"2021 "	"2021"	98	437325	22.4
+	"California"	"06"	"Napa County, CA"	"06055"	"2021 "	"2021"	21	136207	15.4
+	"California"	"06"	"Nevada County, CA"	"06057"	"2021 "	"2021"	43	103487	41.6
+	"California"	"06"	"Orange County, CA"	"06059"	"2021 "	"2021"	932	3167809	29.4
+	"California"	"06"	"Placer County, CA"	"06061"	"2021 "	"2021"	78	412300	18.9
+	"California"	"06"	"Riverside County, CA"	"06065"	"2021 "	"2021"	830	2458395	33.8
+	"California"	"06"	"Sacramento County, CA"	"06067"	"2021 "	"2021"	497	1588921	31.3
+	"California"	"06"	"San Benito County, CA"	"06069"	"2021 "	"2021"	15	66677	Unreliable
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"2021 "	"2021"	559	2194710	25.5
+	"California"	"06"	"San Diego County, CA"	"06073"	"2021 "	"2021"	980	3286069	29.8
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2021 "	"2021"	554	815201	68.0
+	"California"	"06"	"San Joaquin County, CA"	"06077"	"2021 "	"2021"	210	789410	26.6
+	"California"	"06"	"San Luis Obispo County, CA"	"06079"	"2021 "	"2021"	116	283159	41.0
+	"California"	"06"	"San Mateo County, CA"	"06081"	"2021 "	"2021"	137	737888	18.6
+	"California"	"06"	"Santa Barbara County, CA"	"06083"	"2021 "	"2021"	125	446475	28.0
+	"California"	"06"	"Santa Clara County, CA"	"06085"	"2021 "	"2021"	321	1885508	17.0
+	"California"	"06"	"Santa Cruz County, CA"	"06087"	"2021 "	"2021"	83	267792	31.0
+	"California"	"06"	"Shasta County, CA"	"06089"	"2021 "	"2021"	75	182139	41.2
+	"California"	"06"	"Siskiyou County, CA"	"06093"	"2021 "	"2021"	18	44118	Unreliable
+	"California"	"06"	"Solano County, CA"	"06095"	"2021 "	"2021"	120	451716	26.6
+	"California"	"06"	"Sonoma County, CA"	"06097"	"2021 "	"2021"	159	485887	32.7
+	"California"	"06"	"Stanislaus County, CA"	"06099"	"2021 "	"2021"	164	552999	29.7
+	"California"	"06"	"Sutter County, CA"	"06101"	"2021 "	"2021"	35	99063	35.3
+	"California"	"06"	"Tehama County, CA"	"06103"	"2021 "	"2021"	22	65498	33.6
+	"California"	"06"	"Tulare County, CA"	"06107"	"2021 "	"2021"	92	477054	19.3
+	"California"	"06"	"Tuolumne County, CA"	"06109"	"2021 "	"2021"	17	55810	Unreliable
+	"California"	"06"	"Ventura County, CA"	"06111"	"2021 "	"2021"	264	839784	31.4
+	"California"	"06"	"Yolo County, CA"	"06113"	"2021 "	"2021"	33	216986	15.2
+	"California"	"06"	"Yuba County, CA"	"06115"	"2021 "	"2021"	26	83421	31.2
+	"Colorado"	"08"	"Adams County, CO"	"08001"	"2021 "	"2021"	216	522140	41.4
+	"Colorado"	"08"	"Alamosa County, CO"	"08003"	"2021 "	"2021"	12	16547	Unreliable
+	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"2021 "	"2021"	169	654900	25.8
+	"Colorado"	"08"	"Boulder County, CO"	"08013"	"2021 "	"2021"	50	329543	15.2
+	"Colorado"	"08"	"Broomfield County, CO"	"08014"	"2021 "	"2021"	11	75325	Unreliable
+	"Colorado"	"08"	"Delta County, CO"	"08029"	"2021 "	"2021"	13	31661	Unreliable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2021 "	"2021"	364	711463	51.2
+	"Colorado"	"08"	"Douglas County, CO"	"08035"	"2021 "	"2021"	42	368990	11.4
+	"Colorado"	"08"	"Elbert County, CO"	"08039"	"2021 "	"2021"	12	27128	Unreliable
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"2021 "	"2021"	346	737867	46.9
+	"Colorado"	"08"	"Fremont County, CO"	"08043"	"2021 "	"2021"	14	49661	Unreliable
+	"Colorado"	"08"	"Garfield County, CO"	"08045"	"2021 "	"2021"	11	62161	Unreliable
+	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"2021 "	"2021"	178	579581	30.7
+	"Colorado"	"08"	"La Plata County, CO"	"08067"	"2021 "	"2021"	11	56250	Unreliable
+	"Colorado"	"08"	"Larimer County, CO"	"08069"	"2021 "	"2021"	80	362533	22.1
+	"Colorado"	"08"	"Las Animas County, CO"	"08071"	"2021 "	"2021"	16	14633	Unreliable
+	"Colorado"	"08"	"Mesa County, CO"	"08077"	"2021 "	"2021"	37	157335	23.5
+	"Colorado"	"08"	"Montezuma County, CO"	"08083"	"2021 "	"2021"	11	26175	Unreliable
+	"Colorado"	"08"	"Pueblo County, CO"	"08101"	"2021 "	"2021"	71	169622	41.9
+	"Colorado"	"08"	"Teller County, CO"	"08119"	"2021 "	"2021"	10	24926	Unreliable
+	"Colorado"	"08"	"Weld County, CO"	"08123"	"2021 "	"2021"	98	340036	28.8
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2021 "	"2021"	450	670050	67.2
+	"Florida"	"12"	"Alachua County, FL"	"12001"	"2021 "	"2021"	44	279238	15.8
+	"Florida"	"12"	"Baker County, FL"	"12003"	"2021 "	"2021"	14	28715	Unreliable
+	"Florida"	"12"	"Bay County, FL"	"12005"	"2021 "	"2021"	85	179168	47.4
+	"Florida"	"12"	"Bradford County, FL"	"12007"	"2021 "	"2021"	11	28540	Unreliable
+	"Florida"	"12"	"Brevard County, FL"	"12009"	"2021 "	"2021"	348	616628	56.4
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2021 "	"2021"	698	1930983	36.1
+	"Florida"	"12"	"Charlotte County, FL"	"12015"	"2021 "	"2021"	54	194843	27.7
+	"Florida"	"12"	"Citrus County, FL"	"12017"	"2021 "	"2021"	94	158083	59.5
+	"Florida"	"12"	"Clay County, FL"	"12019"	"2021 "	"2021"	85	222361	38.2
+	"Florida"	"12"	"Collier County, FL"	"12021"	"2021 "	"2021"	117	385980	30.3
+	"Florida"	"12"	"Columbia County, FL"	"12023"	"2021 "	"2021"	24	70385	34.1
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2021 "	"2021"	537	999935	53.7
+	"Florida"	"12"	"Escambia County, FL"	"12033"	"2021 "	"2021"	214	322390	66.4
+	"Florida"	"12"	"Flagler County, FL"	"12035"	"2021 "	"2021"	29	120932	24.0
+	"Florida"	"12"	"Hendry County, FL"	"12051"	"2021 "	"2021"	16	40313	Unreliable
+	"Florida"	"12"	"Hernando County, FL"	"12053"	"2021 "	"2021"	110	200638	54.8
+	"Florida"	"12"	"Highlands County, FL"	"12055"	"2021 "	"2021"	37	103296	35.8
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2021 "	"2021"	535	1478194	36.2
+	"Florida"	"12"	"Indian River County, FL"	"12061"	"2021 "	"2021"	63	163662	38.5
+	"Florida"	"12"	"Jackson County, FL"	"12063"	"2021 "	"2021"	13	47694	Unreliable
+	"Florida"	"12"	"Lake County, FL"	"12069"	"2021 "	"2021"	143	395804	36.1
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2021 "	"2021"	306	787976	38.8
+	"Florida"	"12"	"Leon County, FL"	"12073"	"2021 "	"2021"	45	292817	15.4
+	"Florida"	"12"	"Levy County, FL"	"12075"	"2021 "	"2021"	18	44158	Unreliable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2021 "	"2021"	150	412703	36.3
+	"Florida"	"12"	"Marion County, FL"	"12083"	"2021 "	"2021"	195	385915	50.5
+	"Florida"	"12"	"Martin County, FL"	"12085"	"2021 "	"2021"	53	159942	33.1
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2021 "	"2021"	362	2662777	13.6
+	"Florida"	"12"	"Monroe County, FL"	"12087"	"2021 "	"2021"	39	82170	47.5
+	"Florida"	"12"	"Nassau County, FL"	"12089"	"2021 "	"2021"	28	94189	29.7
+	"Florida"	"12"	"Okaloosa County, FL"	"12091"	"2021 "	"2021"	83	213255	38.9
+	"Florida"	"12"	"Okeechobee County, FL"	"12093"	"2021 "	"2021"	17	40266	Unreliable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2021 "	"2021"	422	1422746	29.7
+	"Florida"	"12"	"Osceola County, FL"	"12097"	"2021 "	"2021"	118	403282	29.3
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2021 "	"2021"	561	1497987	37.5
+	"Florida"	"12"	"Pasco County, FL"	"12101"	"2021 "	"2021"	295	584067	50.5
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2021 "	"2021"	542	956615	56.7
+	"Florida"	"12"	"Polk County, FL"	"12105"	"2021 "	"2021"	243	753520	32.2
+	"Florida"	"12"	"Putnam County, FL"	"12107"	"2021 "	"2021"	32	74167	43.1
+	"Florida"	"12"	"St. Johns County, FL"	"12109"	"2021 "	"2021"	50	292466	17.1
+	"Florida"	"12"	"St. Lucie County, FL"	"12111"	"2021 "	"2021"	100	343579	29.1
+	"Florida"	"12"	"Santa Rosa County, FL"	"12113"	"2021 "	"2021"	69	193998	35.6
+	"Florida"	"12"	"Sarasota County, FL"	"12115"	"2021 "	"2021"	161	447057	36.0
+	"Florida"	"12"	"Seminole County, FL"	"12117"	"2021 "	"2021"	156	470093	33.2
+	"Florida"	"12"	"Sumter County, FL"	"12119"	"2021 "	"2021"	33	135638	24.3
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"2021 "	"2021"	349	564412	61.8
+	"Florida"	"12"	"Wakulla County, FL"	"12129"	"2021 "	"2021"	12	34690	Unreliable
+	"Florida"	"12"	"Walton County, FL"	"12131"	"2021 "	"2021"	41	80069	51.2
+	"Georgia"	"13"	"Banks County, GA"	"13011"	"2021 "	"2021"	10	18562	Unreliable
+	"Georgia"	"13"	"Barrow County, GA"	"13013"	"2021 "	"2021"	21	86658	24.2
+	"Georgia"	"13"	"Bartow County, GA"	"13015"	"2021 "	"2021"	48	110843	43.3
+	"Georgia"	"13"	"Bibb County, GA"	"13021"	"2021 "	"2021"	35	156762	22.3
+	"Georgia"	"13"	"Butts County, GA"	"13035"	"2021 "	"2021"	11	25781	Unreliable
+	"Georgia"	"13"	"Camden County, GA"	"13039"	"2021 "	"2021"	19	55664	Unreliable
+	"Georgia"	"13"	"Carroll County, GA"	"13045"	"2021 "	"2021"	50	121968	41.0
+	"Georgia"	"13"	"Catoosa County, GA"	"13047"	"2021 "	"2021"	19	68397	Unreliable
+	"Georgia"	"13"	"Chatham County, GA"	"13051"	"2021 "	"2021"	74	296329	25.0
+	"Georgia"	"13"	"Cherokee County, GA"	"13057"	"2021 "	"2021"	56	274615	20.4
+	"Georgia"	"13"	"Clarke County, GA"	"13059"	"2021 "	"2021"	27	128711	21.0
+	"Georgia"	"13"	"Clayton County, GA"	"13063"	"2021 "	"2021"	58	297100	19.5
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	"2021 "	"2021"	174	766802	22.7
+	"Georgia"	"13"	"Columbia County, GA"	"13073"	"2021 "	"2021"	34	159639	21.3
+	"Georgia"	"13"	"Coweta County, GA"	"13077"	"2021 "	"2021"	32	149956	21.3
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"2021 "	"2021"	152	757718	20.1
+	"Georgia"	"13"	"Dougherty County, GA"	"13095"	"2021 "	"2021"	29	84844	34.2
+	"Georgia"	"13"	"Douglas County, GA"	"13097"	"2021 "	"2021"	22	145814	15.1
+	"Georgia"	"13"	"Effingham County, GA"	"13103"	"2021 "	"2021"	17	66741	Unreliable
+	"Georgia"	"13"	"Fayette County, GA"	"13113"	"2021 "	"2021"	23	120574	19.1
+	"Georgia"	"13"	"Floyd County, GA"	"13115"	"2021 "	"2021"	36	98771	36.4
+	"Georgia"	"13"	"Forsyth County, GA"	"13117"	"2021 "	"2021"	34	260206	13.1
+	"Georgia"	"13"	"Franklin County, GA"	"13119"	"2021 "	"2021"	11	23785	Unreliable
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"2021 "	"2021"	283	1065334	26.6
+	"Georgia"	"13"	"Glynn County, GA"	"13127"	"2021 "	"2021"	34	84739	40.1
+	"Georgia"	"13"	"Gordon County, GA"	"13129"	"2021 "	"2021"	13	58237	Unreliable
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"2021 "	"2021"	170	964546	17.6
+	"Georgia"	"13"	"Habersham County, GA"	"13137"	"2021 "	"2021"	13	46774	Unreliable
+	"Georgia"	"13"	"Hall County, GA"	"13139"	"2021 "	"2021"	42	207369	20.3
+	"Georgia"	"13"	"Henry County, GA"	"13151"	"2021 "	"2021"	38	245235	15.5
+	"Georgia"	"13"	"Houston County, GA"	"13153"	"2021 "	"2021"	29	166829	17.4
+	"Georgia"	"13"	"Jackson County, GA"	"13157"	"2021 "	"2021"	23	80286	28.6
+	"Georgia"	"13"	"Laurens County, GA"	"13175"	"2021 "	"2021"	11	49547	Unreliable
+	"Georgia"	"13"	"Liberty County, GA"	"13179"	"2021 "	"2021"	15	65711	Unreliable
+	"Georgia"	"13"	"Lowndes County, GA"	"13185"	"2021 "	"2021"	17	119276	Unreliable
+	"Georgia"	"13"	"Lumpkin County, GA"	"13187"	"2021 "	"2021"	13	34278	Unreliable
+	"Georgia"	"13"	"Madison County, GA"	"13195"	"2021 "	"2021"	13	30885	Unreliable
+	"Georgia"	"13"	"Muscogee County, GA"	"13215"	"2021 "	"2021"	44	205617	21.4
+	"Georgia"	"13"	"Newton County, GA"	"13217"	"2021 "	"2021"	23	115355	19.9
+	"Georgia"	"13"	"Paulding County, GA"	"13223"	"2021 "	"2021"	49	173780	28.2
+	"Georgia"	"13"	"Pickens County, GA"	"13227"	"2021 "	"2021"	12	34024	Unreliable
+	"Georgia"	"13"	"Polk County, GA"	"13233"	"2021 "	"2021"	23	43496	52.9
+	"Georgia"	"13"	"Richmond County, GA"	"13245"	"2021 "	"2021"	84	205673	40.8
+	"Georgia"	"13"	"Rockdale County, GA"	"13247"	"2021 "	"2021"	24	94082	25.5
+	"Georgia"	"13"	"Spalding County, GA"	"13255"	"2021 "	"2021"	21	67909	30.9
+	"Georgia"	"13"	"Stephens County, GA"	"13257"	"2021 "	"2021"	11	26865	Unreliable
+	"Georgia"	"13"	"Tift County, GA"	"13277"	"2021 "	"2021"	14	41212	Unreliable
+	"Georgia"	"13"	"Troup County, GA"	"13285"	"2021 "	"2021"	19	69720	Unreliable
+	"Georgia"	"13"	"Walker County, GA"	"13295"	"2021 "	"2021"	24	68510	35.0
+	"Georgia"	"13"	"Walton County, GA"	"13297"	"2021 "	"2021"	25	99853	25.0
+	"Georgia"	"13"	"Ware County, GA"	"13299"	"2021 "	"2021"	13	36033	Unreliable
+	"Georgia"	"13"	"White County, GA"	"13311"	"2021 "	"2021"	11	28442	Unreliable
+	"Georgia"	"13"	"Whitfield County, GA"	"13313"	"2021 "	"2021"	25	102848	24.3
+	"Illinois"	"17"	"Adams County, IL"	"17001"	"2021 "	"2021"	12	64954	Unreliable
+	"Illinois"	"17"	"Champaign County, IL"	"17019"	"2021 "	"2021"	56	205943	27.2
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2021 "	"2021"	1996	5173146	38.6
+	"Illinois"	"17"	"DeKalb County, IL"	"17037"	"2021 "	"2021"	23	100414	22.9
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	"2021 "	"2021"	147	924885	15.9
+	"Illinois"	"17"	"Franklin County, IL"	"17055"	"2021 "	"2021"	11	37442	Unreliable
+	"Illinois"	"17"	"Grundy County, IL"	"17063"	"2021 "	"2021"	13	52989	Unreliable
+	"Illinois"	"17"	"Jefferson County, IL"	"17081"	"2021 "	"2021"	11	36877	Unreliable
+	"Illinois"	"17"	"Kane County, IL"	"17089"	"2021 "	"2021"	107	515588	20.8
+	"Illinois"	"17"	"Kankakee County, IL"	"17091"	"2021 "	"2021"	38	106601	35.6
+	"Illinois"	"17"	"Kendall County, IL"	"17093"	"2021 "	"2021"	14	134867	Unreliable
+	"Illinois"	"17"	"Knox County, IL"	"17095"	"2021 "	"2021"	11	49268	Unreliable
+	"Illinois"	"17"	"Lake County, IL"	"17097"	"2021 "	"2021"	137	711239	19.3
+	"Illinois"	"17"	"LaSalle County, IL"	"17099"	"2021 "	"2021"	39	108965	35.8
+	"Illinois"	"17"	"Livingston County, IL"	"17105"	"2021 "	"2021"	15	35664	Unreliable
+	"Illinois"	"17"	"McHenry County, IL"	"17111"	"2021 "	"2021"	52	311122	16.7
+	"Illinois"	"17"	"McLean County, IL"	"17113"	"2021 "	"2021"	24	170889	14.0
+	"Illinois"	"17"	"Macon County, IL"	"17115"	"2021 "	"2021"	34	102432	33.2
+	"Illinois"	"17"	"Macoupin County, IL"	"17117"	"2021 "	"2021"	10	44406	Unreliable
+	"Illinois"	"17"	"Madison County, IL"	"17119"	"2021 "	"2021"	109	264490	41.2
+	"Illinois"	"17"	"Marion County, IL"	"17121"	"2021 "	"2021"	10	37390	Unreliable
+	"Illinois"	"17"	"Montgomery County, IL"	"17135"	"2021 "	"2021"	16	28084	Unreliable
+	"Illinois"	"17"	"Peoria County, IL"	"17143"	"2021 "	"2021"	40	179432	22.3
+	"Illinois"	"17"	"Rock Island County, IL"	"17161"	"2021 "	"2021"	26	142909	18.2
+	"Illinois"	"17"	"St. Clair County, IL"	"17163"	"2021 "	"2021"	99	254796	38.9
+	"Illinois"	"17"	"Saline County, IL"	"17165"	"2021 "	"2021"	11	23320	Unreliable
+	"Illinois"	"17"	"Sangamon County, IL"	"17167"	"2021 "	"2021"	71	194734	36.5
+	"Illinois"	"17"	"Tazewell County, IL"	"17179"	"2021 "	"2021"	36	130413	27.6
+	"Illinois"	"17"	"Vermilion County, IL"	"17183"	"2021 "	"2021"	26	73095	35.6
+	"Illinois"	"17"	"Will County, IL"	"17197"	"2021 "	"2021"	158	697252	22.7
+	"Illinois"	"17"	"Williamson County, IL"	"17199"	"2021 "	"2021"	19	66879	Unreliable
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	"2021 "	"2021"	148	283119	52.3
+	"Massachusetts"	"25"	"Barnstable County, MA"	"25001"	"2021 "	"2021"	95	232411	40.9
+	"Massachusetts"	"25"	"Berkshire County, MA"	"25003"	"2021 "	"2021"	73	128657	56.7
+	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"2021 "	"2021"	318	580164	54.8
+	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"2021 "	"2021"	319	807074	39.5
+	"Massachusetts"	"25"	"Franklin County, MA"	"25011"	"2021 "	"2021"	38	71015	53.5
+	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"2021 "	"2021"	230	462718	49.7
+	"Massachusetts"	"25"	"Hampshire County, MA"	"25015"	"2021 "	"2021"	51	161572	31.6
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"2021 "	"2021"	409	1614742	25.3
+	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"2021 "	"2021"	189	724505	26.1
+	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"2021 "	"2021"	187	533003	35.1
+	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"2021 "	"2021"	337	771245	43.7
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"2021 "	"2021"	329	862029	38.2
+	"Michigan"	"26"	"Allegan County, MI"	"26005"	"2021 "	"2021"	16	120950	Unreliable
+	"Michigan"	"26"	"Bay County, MI"	"26017"	"2021 "	"2021"	40	102985	38.8
+	"Michigan"	"26"	"Berrien County, MI"	"26021"	"2021 "	"2021"	37	153101	24.2
+	"Michigan"	"26"	"Calhoun County, MI"	"26025"	"2021 "	"2021"	64	133819	47.8
+	"Michigan"	"26"	"Clare County, MI"	"26035"	"2021 "	"2021"	10	31065	Unreliable
+	"Michigan"	"26"	"Clinton County, MI"	"26037"	"2021 "	"2021"	12	79426	Unreliable
+	"Michigan"	"26"	"Eaton County, MI"	"26045"	"2021 "	"2021"	26	108944	23.9
+	"Michigan"	"26"	"Genesee County, MI"	"26049"	"2021 "	"2021"	205	404208	50.7
+	"Michigan"	"26"	"Gladwin County, MI"	"26051"	"2021 "	"2021"	13	25485	Unreliable
+	"Michigan"	"26"	"Grand Traverse County, MI"	"26055"	"2021 "	"2021"	17	95860	Unreliable
+	"Michigan"	"26"	"Ingham County, MI"	"26065"	"2021 "	"2021"	121	284034	42.6
+	"Michigan"	"26"	"Ionia County, MI"	"26067"	"2021 "	"2021"	13	67197	Unreliable
+	"Michigan"	"26"	"Iosco County, MI"	"26069"	"2021 "	"2021"	13	25369	Unreliable
+	"Michigan"	"26"	"Isabella County, MI"	"26073"	"2021 "	"2021"	15	64813	Unreliable
+	"Michigan"	"26"	"Jackson County, MI"	"26075"	"2021 "	"2021"	56	160050	35.0
+	"Michigan"	"26"	"Kalamazoo County, MI"	"26077"	"2021 "	"2021"	67	261108	25.7
+	"Michigan"	"26"	"Kent County, MI"	"26081"	"2021 "	"2021"	124	658046	18.8
+	"Michigan"	"26"	"Lapeer County, MI"	"26087"	"2021 "	"2021"	16	88513	Unreliable
+	"Michigan"	"26"	"Lenawee County, MI"	"26091"	"2021 "	"2021"	28	98956	28.3
+	"Michigan"	"26"	"Livingston County, MI"	"26093"	"2021 "	"2021"	38	195014	19.5
+	"Michigan"	"26"	"Macomb County, MI"	"26099"	"2021 "	"2021"	314	876792	35.8
+	"Michigan"	"26"	"Marquette County, MI"	"26103"	"2021 "	"2021"	10	66103	Unreliable
+	"Michigan"	"26"	"Midland County, MI"	"26111"	"2021 "	"2021"	12	83457	Unreliable
+	"Michigan"	"26"	"Monroe County, MI"	"26115"	"2021 "	"2021"	56	155274	36.1
+	"Michigan"	"26"	"Montcalm County, MI"	"26117"	"2021 "	"2021"	13	67220	Unreliable
+	"Michigan"	"26"	"Muskegon County, MI"	"26121"	"2021 "	"2021"	68	176511	38.5
+	"Michigan"	"26"	"Newaygo County, MI"	"26123"	"2021 "	"2021"	10	50296	Unreliable
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	"2021 "	"2021"	262	1270017	20.6
+	"Michigan"	"26"	"Ottawa County, MI"	"26139"	"2021 "	"2021"	27	299157	9.0
+	"Michigan"	"26"	"Roscommon County, MI"	"26143"	"2021 "	"2021"	11	23633	Unreliable
+	"Michigan"	"26"	"Saginaw County, MI"	"26145"	"2021 "	"2021"	71	189591	37.4
+	"Michigan"	"26"	"St. Clair County, MI"	"26147"	"2021 "	"2021"	65	160053	40.6
+	"Michigan"	"26"	"Van Buren County, MI"	"26159"	"2021 "	"2021"	23	75658	30.4
+	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	"2021 "	"2021"	84	369390	22.7
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"2021 "	"2021"	911	1774816	51.3
+	"Michigan"	"26"	"Wexford County, MI"	"26165"	"2021 "	"2021"	13	33901	Unreliable
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"2021 "	"2021"	670	2292476	29.2
+	"Nevada"	"32"	"Elko County, NV"	"32007"	"2021 "	"2021"	13	53915	Unreliable
+	"Nevada"	"32"	"Lyon County, NV"	"32019"	"2021 "	"2021"	14	60903	Unreliable
+	"Nevada"	"32"	"Nye County, NV"	"32023"	"2021 "	"2021"	23	53450	43.0
+	"Nevada"	"32"	"Washoe County, NV"	"32031"	"2021 "	"2021"	188	493392	38.1
+	"Nevada"	"32"	"Carson City, NV"	"32510"	"2021 "	"2021"	15	58993	Unreliable
+	"New York"	"36"	"Albany County, NY"	"36001"	"2021 "	"2021"	99	313743	31.6
+	"New York"	"36"	"Bronx County, NY"	"36005"	"2021 "	"2021"	816	1424948	57.3
+	"New York"	"36"	"Broome County, NY"	"36007"	"2021 "	"2021"	91	197240	46.1
+	"New York"	"36"	"Cattaraugus County, NY"	"36009"	"2021 "	"2021"	24	76426	31.4
+	"New York"	"36"	"Cayuga County, NY"	"36011"	"2021 "	"2021"	22	75880	29.0
+	"New York"	"36"	"Chautauqua County, NY"	"36013"	"2021 "	"2021"	60	126807	47.3
+	"New York"	"36"	"Chemung County, NY"	"36015"	"2021 "	"2021"	33	83045	39.7
+	"New York"	"36"	"Chenango County, NY"	"36017"	"2021 "	"2021"	25	46537	53.7
+	"New York"	"36"	"Clinton County, NY"	"36019"	"2021 "	"2021"	15	79596	Unreliable
+	"New York"	"36"	"Columbia County, NY"	"36021"	"2021 "	"2021"	17	61778	Unreliable
+	"New York"	"36"	"Cortland County, NY"	"36023"	"2021 "	"2021"	17	46311	Unreliable
+	"New York"	"36"	"Delaware County, NY"	"36025"	"2021 "	"2021"	16	44378	Unreliable
+	"New York"	"36"	"Dutchess County, NY"	"36027"	"2021 "	"2021"	96	297112	32.3
+	"New York"	"36"	"Erie County, NY"	"36029"	"2021 "	"2021"	317	950683	33.3
+	"New York"	"36"	"Essex County, NY"	"36031"	"2021 "	"2021"	15	37268	Unreliable
+	"New York"	"36"	"Franklin County, NY"	"36033"	"2021 "	"2021"	11	47456	Unreliable
+	"New York"	"36"	"Fulton County, NY"	"36035"	"2021 "	"2021"	12	53116	Unreliable
+	"New York"	"36"	"Greene County, NY"	"36039"	"2021 "	"2021"	25	48499	51.5
+	"New York"	"36"	"Herkimer County, NY"	"36043"	"2021 "	"2021"	10	59937	Unreliable
+	"New York"	"36"	"Jefferson County, NY"	"36045"	"2021 "	"2021"	27	116295	23.2
+	"New York"	"36"	"Kings County, NY"	"36047"	"2021 "	"2021"	630	2641052	23.9
+	"New York"	"36"	"Madison County, NY"	"36053"	"2021 "	"2021"	19	67658	Unreliable
+	"New York"	"36"	"Monroe County, NY"	"36055"	"2021 "	"2021"	196	755160	26.0
+	"New York"	"36"	"Montgomery County, NY"	"36057"	"2021 "	"2021"	13	49558	Unreliable
+	"New York"	"36"	"Nassau County, NY"	"36059"	"2021 "	"2021"	278	1390907	20.0
+	"New York"	"36"	"New York County, NY"	"36061"	"2021 "	"2021"	494	1576876	31.3
+	"New York"	"36"	"Niagara County, NY"	"36063"	"2021 "	"2021"	88	211653	41.6
+	"New York"	"36"	"Oneida County, NY"	"36065"	"2021 "	"2021"	82	230274	35.6
+	"New York"	"36"	"Onondaga County, NY"	"36067"	"2021 "	"2021"	195	473236	41.2
+	"New York"	"36"	"Ontario County, NY"	"36069"	"2021 "	"2021"	21	112508	18.7
+	"New York"	"36"	"Orange County, NY"	"36071"	"2021 "	"2021"	147	404525	36.3
+	"New York"	"36"	"Oswego County, NY"	"36075"	"2021 "	"2021"	43	117387	36.6
+	"New York"	"36"	"Otsego County, NY"	"36077"	"2021 "	"2021"	18	58123	Unreliable
+	"New York"	"36"	"Putnam County, NY"	"36079"	"2021 "	"2021"	23	97936	23.5
+	"New York"	"36"	"Queens County, NY"	"36081"	"2021 "	"2021"	431	2331143	18.5
+	"New York"	"36"	"Rensselaer County, NY"	"36083"	"2021 "	"2021"	46	160232	28.7
+	"New York"	"36"	"Richmond County, NY"	"36085"	"2021 "	"2021"	169	493494	34.2
+	"New York"	"36"	"Rockland County, NY"	"36087"	"2021 "	"2021"	75	339227	22.1
+	"New York"	"36"	"St. Lawrence County, NY"	"36089"	"2021 "	"2021"	25	108051	23.1
+	"New York"	"36"	"Saratoga County, NY"	"36091"	"2021 "	"2021"	40	237359	16.9
+	"New York"	"36"	"Schenectady County, NY"	"36093"	"2021 "	"2021"	52	158089	32.9
+	"New York"	"36"	"Schoharie County, NY"	"36095"	"2021 "	"2021"	10	29863	Unreliable
+	"New York"	"36"	"Steuben County, NY"	"36101"	"2021 "	"2021"	23	92948	24.7
+	"New York"	"36"	"Suffolk County, NY"	"36103"	"2021 "	"2021"	545	1526344	35.7
+	"New York"	"36"	"Sullivan County, NY"	"36105"	"2021 "	"2021"	42	79806	52.6
+	"New York"	"36"	"Tompkins County, NY"	"36109"	"2021 "	"2021"	24	105162	22.8
+	"New York"	"36"	"Ulster County, NY"	"36111"	"2021 "	"2021"	75	182951	41.0
+	"New York"	"36"	"Warren County, NY"	"36113"	"2021 "	"2021"	12	65618	Unreliable
+	"New York"	"36"	"Washington County, NY"	"36115"	"2021 "	"2021"	10	60956	Unreliable
+	"New York"	"36"	"Wayne County, NY"	"36117"	"2021 "	"2021"	19	90923	Unreliable
+	"New York"	"36"	"Westchester County, NY"	"36119"	"2021 "	"2021"	192	997895	19.2
+	"Pennsylvania"	"42"	"Adams County, PA"	"42001"	"2021 "	"2021"	26	104127	25.0
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"2021 "	"2021"	667	1238090	53.9
+	"Pennsylvania"	"42"	"Armstrong County, PA"	"42005"	"2021 "	"2021"	38	65093	58.4
+	"Pennsylvania"	"42"	"Beaver County, PA"	"42007"	"2021 "	"2021"	71	166624	42.6
+	"Pennsylvania"	"42"	"Bedford County, PA"	"42009"	"2021 "	"2021"	23	47461	48.5
+	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	"2021 "	"2021"	136	429342	31.7
+	"Pennsylvania"	"42"	"Blair County, PA"	"42013"	"2021 "	"2021"	43	121767	35.3
+	"Pennsylvania"	"42"	"Bradford County, PA"	"42015"	"2021 "	"2021"	13	59892	Unreliable
+	"Pennsylvania"	"42"	"Bucks County, PA"	"42017"	"2021 "	"2021"	207	646098	32.0
+	"Pennsylvania"	"42"	"Butler County, PA"	"42019"	"2021 "	"2021"	68	194273	35.0
+	"Pennsylvania"	"42"	"Cambria County, PA"	"42021"	"2021 "	"2021"	91	132167	68.9
+	"Pennsylvania"	"42"	"Carbon County, PA"	"42025"	"2021 "	"2021"	48	65412	73.4
+	"Pennsylvania"	"42"	"Centre County, PA"	"42027"	"2021 "	"2021"	12	157527	Unreliable
+	"Pennsylvania"	"42"	"Chester County, PA"	"42029"	"2021 "	"2021"	119	538649	22.1
+	"Pennsylvania"	"42"	"Clearfield County, PA"	"42033"	"2021 "	"2021"	35	80082	43.7
+	"Pennsylvania"	"42"	"Clinton County, PA"	"42035"	"2021 "	"2021"	12	37465	Unreliable
+	"Pennsylvania"	"42"	"Columbia County, PA"	"42037"	"2021 "	"2021"	27	64872	41.6
+	"Pennsylvania"	"42"	"Crawford County, PA"	"42039"	"2021 "	"2021"	43	83351	51.6
+	"Pennsylvania"	"42"	"Cumberland County, PA"	"42041"	"2021 "	"2021"	45	262919	17.1
+	"Pennsylvania"	"42"	"Dauphin County, PA"	"42043"	"2021 "	"2021"	93	287400	32.4
+	"Pennsylvania"	"42"	"Delaware County, PA"	"42045"	"2021 "	"2021"	208	573849	36.2
+	"Pennsylvania"	"42"	"Elk County, PA"	"42047"	"2021 "	"2021"	16	30783	Unreliable
+	"Pennsylvania"	"42"	"Erie County, PA"	"42049"	"2021 "	"2021"	93	269011	34.6
+	"Pennsylvania"	"42"	"Fayette County, PA"	"42051"	"2021 "	"2021"	95	126931	74.8
+	"Pennsylvania"	"42"	"Franklin County, PA"	"42055"	"2021 "	"2021"	36	156289	23.0
+	"Pennsylvania"	"42"	"Greene County, PA"	"42059"	"2021 "	"2021"	20	35369	56.5
+	"Pennsylvania"	"42"	"Huntingdon County, PA"	"42061"	"2021 "	"2021"	10	43889	Unreliable
+	"Pennsylvania"	"42"	"Indiana County, PA"	"42063"	"2021 "	"2021"	45	82886	54.3
+	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	"2021 "	"2021"	99	215663	45.9
+	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	"2021 "	"2021"	152	553652	27.5
+	"Pennsylvania"	"42"	"Lawrence County, PA"	"42073"	"2021 "	"2021"	54	85497	63.2
+	"Pennsylvania"	"42"	"Lebanon County, PA"	"42075"	"2021 "	"2021"	35	143493	24.4
+	"Pennsylvania"	"42"	"Lehigh County, PA"	"42077"	"2021 "	"2021"	147	375539	39.1
+	"Pennsylvania"	"42"	"Luzerne County, PA"	"42079"	"2021 "	"2021"	212	326053	65.0
+	"Pennsylvania"	"42"	"Lycoming County, PA"	"42081"	"2021 "	"2021"	26	113605	22.9
+	"Pennsylvania"	"42"	"Mc Kean County, PA"	"42083"	"2021 "	"2021"	13	39941	Unreliable
+	"Pennsylvania"	"42"	"Mercer County, PA"	"42085"	"2021 "	"2021"	66	109972	60.0
+	"Pennsylvania"	"42"	"Mifflin County, PA"	"42087"	"2021 "	"2021"	19	46136	Unreliable
+	"Pennsylvania"	"42"	"Monroe County, PA"	"42089"	"2021 "	"2021"	66	169273	39.0
+	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"2021 "	"2021"	199	860578	23.1
+	"Pennsylvania"	"42"	"Northampton County, PA"	"42095"	"2021 "	"2021"	117	313628	37.3
+	"Pennsylvania"	"42"	"Northumberland County, PA"	"42097"	"2021 "	"2021"	36	91266	39.4
+	"Pennsylvania"	"42"	"Perry County, PA"	"42099"	"2021 "	"2021"	16	45986	Unreliable
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"2021 "	"2021"	1174	1576251	74.5
+	"Pennsylvania"	"42"	"Pike County, PA"	"42103"	"2021 "	"2021"	24	59952	40.0
+	"Pennsylvania"	"42"	"Schuylkill County, PA"	"42107"	"2021 "	"2021"	66	143264	46.1
+	"Pennsylvania"	"42"	"Somerset County, PA"	"42111"	"2021 "	"2021"	25	73627	34.0
+	"Pennsylvania"	"42"	"Tioga County, PA"	"42117"	"2021 "	"2021"	18	40929	Unreliable
+	"Pennsylvania"	"42"	"Venango County, PA"	"42121"	"2021 "	"2021"	15	49938	Unreliable
+	"Pennsylvania"	"42"	"Washington County, PA"	"42125"	"2021 "	"2021"	115	209470	54.9
+	"Pennsylvania"	"42"	"Wayne County, PA"	"42127"	"2021 "	"2021"	22	51431	42.8
+	"Pennsylvania"	"42"	"Westmoreland County, PA"	"42129"	"2021 "	"2021"	174	353057	49.3
+	"Pennsylvania"	"42"	"York County, PA"	"42133"	"2021 "	"2021"	150	458696	32.7
+	"Texas"	"48"	"Anderson County, TX"	"48001"	"2021 "	"2021"	18	58402	Unreliable
+	"Texas"	"48"	"Angelina County, TX"	"48005"	"2021 "	"2021"	26	86506	30.1
+	"Texas"	"48"	"Bastrop County, TX"	"48021"	"2021 "	"2021"	13	102058	Unreliable
+	"Texas"	"48"	"Bell County, TX"	"48027"	"2021 "	"2021"	64	379617	16.9
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"2021 "	"2021"	372	2028236	18.3
+	"Texas"	"48"	"Brazoria County, TX"	"48039"	"2021 "	"2021"	76	379689	20.0
+	"Texas"	"48"	"Brazos County, TX"	"48041"	"2021 "	"2021"	22	237032	9.3
+	"Texas"	"48"	"Cameron County, TX"	"48061"	"2021 "	"2021"	26	423029	6.1
+	"Texas"	"48"	"Chambers County, TX"	"48071"	"2021 "	"2021"	16	48865	Unreliable
+	"Texas"	"48"	"Collin County, TX"	"48085"	"2021 "	"2021"	116	1109462	10.5
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"2021 "	"2021"	564	2586050	21.8
+	"Texas"	"48"	"Denton County, TX"	"48121"	"2021 "	"2021"	105	941647	11.2
+	"Texas"	"48"	"Ector County, TX"	"48135"	"2021 "	"2021"	36	161091	22.3
+	"Texas"	"48"	"Ellis County, TX"	"48139"	"2021 "	"2021"	18	202678	Unreliable
+	"Texas"	"48"	"El Paso County, TX"	"48141"	"2021 "	"2021"	151	867947	17.4
+	"Texas"	"48"	"Fort Bend County, TX"	"48157"	"2021 "	"2021"	78	858527	9.1
+	"Texas"	"48"	"Galveston County, TX"	"48167"	"2021 "	"2021"	85	355062	23.9
+	"Texas"	"48"	"Grayson County, TX"	"48181"	"2021 "	"2021"	25	139336	17.9
+	"Texas"	"48"	"Gregg County, TX"	"48183"	"2021 "	"2021"	13	124201	Unreliable
+	"Texas"	"48"	"Guadalupe County, TX"	"48187"	"2021 "	"2021"	16	177036	Unreliable
+	"Texas"	"48"	"Hardin County, TX"	"48199"	"2021 "	"2021"	13	56973	Unreliable
+	"Texas"	"48"	"Harris County, TX"	"48201"	"2021 "	"2021"	1071	4728030	22.7
+	"Texas"	"48"	"Harrison County, TX"	"48203"	"2021 "	"2021"	12	69150	Unreliable
+	"Texas"	"48"	"Hays County, TX"	"48209"	"2021 "	"2021"	40	255397	15.7
+	"Texas"	"48"	"Henderson County, TX"	"48213"	"2021 "	"2021"	14	83667	Unreliable
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	"2021 "	"2021"	34	880356	3.9
+	"Texas"	"48"	"Hill County, TX"	"48217"	"2021 "	"2021"	15	36471	Unreliable
+	"Texas"	"48"	"Jefferson County, TX"	"48245"	"2021 "	"2021"	72	253704	28.4
+	"Texas"	"48"	"Johnson County, TX"	"48251"	"2021 "	"2021"	20	187280	10.7
+	"Texas"	"48"	"Kaufman County, TX"	"48257"	"2021 "	"2021"	20	157768	12.7
+	"Texas"	"48"	"Liberty County, TX"	"48291"	"2021 "	"2021"	27	97621	27.7
+	"Texas"	"48"	"Lubbock County, TX"	"48303"	"2021 "	"2021"	46	314451	14.6
+	"Texas"	"48"	"McLennan County, TX"	"48309"	"2021 "	"2021"	31	263115	11.8
+	"Texas"	"48"	"Midland County, TX"	"48329"	"2021 "	"2021"	25	167969	14.9
+	"Texas"	"48"	"Montgomery County, TX"	"48339"	"2021 "	"2021"	129	648886	19.9
+	"Texas"	"48"	"Nacogdoches County, TX"	"48347"	"2021 "	"2021"	10	64668	Unreliable
+	"Texas"	"48"	"Nueces County, TX"	"48355"	"2021 "	"2021"	99	353079	28.0
+	"Texas"	"48"	"Orange County, TX"	"48361"	"2021 "	"2021"	30	84742	35.4
+	"Texas"	"48"	"Parker County, TX"	"48367"	"2021 "	"2021"	27	156764	17.2
+	"Texas"	"48"	"Polk County, TX"	"48373"	"2021 "	"2021"	16	51899	Unreliable
+	"Texas"	"48"	"Potter County, TX"	"48375"	"2021 "	"2021"	24	116547	20.6
+	"Texas"	"48"	"Randall County, TX"	"48381"	"2021 "	"2021"	19	143854	Unreliable
+	"Texas"	"48"	"Rockwall County, TX"	"48397"	"2021 "	"2021"	15	116381	Unreliable
+	"Texas"	"48"	"Smith County, TX"	"48423"	"2021 "	"2021"	22	237186	9.3
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"2021 "	"2021"	405	2126477	19.0
+	"Texas"	"48"	"Taylor County, TX"	"48441"	"2021 "	"2021"	30	143326	20.9
+	"Texas"	"48"	"Tom Green County, TX"	"48451"	"2021 "	"2021"	12	119411	Unreliable
+	"Texas"	"48"	"Travis County, TX"	"48453"	"2021 "	"2021"	269	1305154	20.6
+	"Texas"	"48"	"Van Zandt County, TX"	"48467"	"2021 "	"2021"	13	61275	Unreliable
+	"Texas"	"48"	"Webb County, TX"	"48479"	"2021 "	"2021"	31	267945	11.6
+	"Texas"	"48"	"Wichita County, TX"	"48485"	"2021 "	"2021"	26	130069	20.0
+	"Texas"	"48"	"Williamson County, TX"	"48491"	"2021 "	"2021"	85	643026	13.2
+	"Texas"	"48"	"Wise County, TX"	"48497"	"2021 "	"2021"	14	71714	Unreliable
+	"Washington"	"53"	"Asotin County, WA"	"53003"	"2021 "	"2021"	11	22397	Unreliable
+	"Washington"	"53"	"Benton County, WA"	"53005"	"2021 "	"2021"	38	210025	18.1
+	"Washington"	"53"	"Chelan County, WA"	"53007"	"2021 "	"2021"	12	79646	Unreliable
+	"Washington"	"53"	"Clallam County, WA"	"53009"	"2021 "	"2021"	38	78209	48.6
+	"Washington"	"53"	"Clark County, WA"	"53011"	"2021 "	"2021"	116	511404	22.7
+	"Washington"	"53"	"Cowlitz County, WA"	"53015"	"2021 "	"2021"	31	111524	27.8
+	"Washington"	"53"	"Franklin County, WA"	"53021"	"2021 "	"2021"	24	98268	24.4
+	"Washington"	"53"	"Grant County, WA"	"53025"	"2021 "	"2021"	28	100297	27.9
+	"Washington"	"53"	"Grays Harbor County, WA"	"53027"	"2021 "	"2021"	43	76841	56.0
+	"Washington"	"53"	"Island County, WA"	"53029"	"2021 "	"2021"	16	87432	Unreliable
+	"Washington"	"53"	"Jefferson County, WA"	"53031"	"2021 "	"2021"	10	33605	Unreliable
+	"Washington"	"53"	"King County, WA"	"53033"	"2021 "	"2021"	667	2252305	29.6
+	"Washington"	"53"	"Kitsap County, WA"	"53035"	"2021 "	"2021"	53	274314	19.3
+	"Washington"	"53"	"Kittitas County, WA"	"53037"	"2021 "	"2021"	15	45499	Unreliable
+	"Washington"	"53"	"Lewis County, WA"	"53041"	"2021 "	"2021"	20	84398	23.7
+	"Washington"	"53"	"Mason County, WA"	"53045"	"2021 "	"2021"	30	67615	44.4
+	"Washington"	"53"	"Okanogan County, WA"	"53047"	"2021 "	"2021"	16	42634	Unreliable
+	"Washington"	"53"	"Pierce County, WA"	"53053"	"2021 "	"2021"	341	925708	36.8
+	"Washington"	"53"	"Skagit County, WA"	"53057"	"2021 "	"2021"	40	130696	30.6
+	"Washington"	"53"	"Snohomish County, WA"	"53061"	"2021 "	"2021"	237	833540	28.4
+	"Washington"	"53"	"Spokane County, WA"	"53063"	"2021 "	"2021"	184	546040	33.7
+	"Washington"	"53"	"Thurston County, WA"	"53067"	"2021 "	"2021"	92	297977	30.9
+	"Washington"	"53"	"Whatcom County, WA"	"53073"	"2021 "	"2021"	43	228831	18.8
+	"Washington"	"53"	"Yakima County, WA"	"53077"	"2021 "	"2021"	96	256035	37.5
+"---"
+"Dataset: Underlying Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"Title: alldrugdeaths21"
+"ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"States: Arizona (04); California (06); Colorado (08); District of Columbia (11); Florida (12); Georgia (13); Illinois (17);"
+"Massachusetts (25); Michigan (26); Nevada (32); New York (36); Pennsylvania (42); Texas (48); Washington (53)"
+"Year/Month: 2021"
+"Group By: State; County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Apr 19, 2023 10:30:27 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Apr 19, 2023 10:30:27 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"4. The population figures for year 2021 are single-race estimates of the July 1 resident population, from the Vintage 2021"
+"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2020 postcensal series released by the Census Bureau on July 27, 2021. The"
+"population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal"
+"series released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2018 postcensal series released by the Census Bureau on June 20, 2019."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#ICD-10 Changes."
