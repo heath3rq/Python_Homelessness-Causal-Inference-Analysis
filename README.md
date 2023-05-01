@@ -1,6 +1,6 @@
 ## Effect of providing permanent housing for the homeless on per capita homeless rates in US cities.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ffiltermag.org%2Fhousing-first-homelessness-crisis%2F&psig=AOvVaw3B03kgOBgZbTz59p35ceIq&ust=1682993106367000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiv8IyE0_4CFQAAAAAdAAAAABAQ![image](https://user-images.githubusercontent.com/105904149/235391363-7af77f1f-45ef-4348-85d0-7fa83894d644.png)
+![image](https://user-images.githubusercontent.com/105904149/235391363-7af77f1f-45ef-4348-85d0-7fa83894d644.png)
 
 ### I. Project Question
 What is the effect of providing permanent housing for the homeless on per capita homeless rates?
